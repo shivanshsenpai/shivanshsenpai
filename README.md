@@ -11,38 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://shivansh-sharma-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/shivanshsenpai?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-475569?style=flat&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="https://www.instagram.com/shiviSenpai/">
-    <img src="https://img.shields.io/badge/Instagram-64748B?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shivanshsenpai&style=flat&color=94A3B8&label=views" alt="Profile views" />
+  <a href="https://shivansh-sharma-portfolio.vercel.app/">Portfolio</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/shivanshsenpai?tab=repositories">Projects</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.instagram.com/shiviSenpai/">Instagram</a>
 </p>
-
----
 
 ### About
 
-I like building systems that feel useful quickly: drone vision experiments, AI interview tools, fitness platforms, Google Sheets CRMs, order workflows, n8n assistants, and automations that remove repetitive work.
+I build practical AI and automation systems, with a focus on computer vision, IoT, workflow automation, and full-stack projects that are easy to demo and ship.
 
-Currently focused on machine learning, IoT, automation architecture, and making projects easier to demo, explain, ship, and maintain.
+Right now I am sharpening machine learning and IoT while turning messy spreadsheet and workflow problems into cleaner tools.
 
 ### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,opencv,git,github,vercel&perline=11" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-475569?style=flat&logo=google&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/n8n-475569?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenCV-475569?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Automation-475569?style=flat" alt="Automation" />
-</p>
+`Python` / `JavaScript` / `TypeScript` / `React` / `Node.js` / `HTML` / `CSS` / `OpenCV` / `Google Apps Script` / `n8n` / `Git`
 
 ### Selected Work
 
