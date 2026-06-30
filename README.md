@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img width="100%" src="./assets/shooting-stars.svg" alt="Subtle shooting star animation" />
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Building+practical+AI+and+automation+systems;Computer+vision+%2B+IoT+experiments;Full-stack+apps+that+ship;Simple+workflows+for+messy+problems" alt="Animated typing intro" />
   </a>
