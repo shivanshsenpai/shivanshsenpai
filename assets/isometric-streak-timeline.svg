@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">Large isometric GitHub streak timeline for Shivansh Sharma</title>
+  <desc id="desc">A larger isometric contribution timeline with daily edit counts above each tower and dates below each tower.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc" />
+      <stop offset="0.52" stop-color="#eff6ff" />
+      <stop offset="1" stop-color="#ecfdf5" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#164e63" />
+    </linearGradient>
+    <linearGradient id="rail" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.14" />
+      <stop offset="0.62" stop-color="#16a34a" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.16" />
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-40%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="9" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.16" />
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .kicker { font: 800 13px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .09em; text-transform: uppercase; fill: #2563eb; }
+    .title { font: 850 39px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; }
+    .copy { font: 500 16px Inter, Segoe UI, Arial, sans-serif; fill: #475569; }
+    .tiny { font: 600 12px Inter, Segoe UI, Arial, sans-serif; fill: #64748b; letter-spacing: .02em; }
+    .stat-label { font: 800 11px Inter, Segoe UI, Arial, sans-serif; fill: #cbd5e1; letter-spacing: .07em; text-transform: uppercase; }
+    .stat-value { font: 850 30px Inter, Segoe UI, Arial, sans-serif; fill: #ffffff; }
+    .stat-note { font: 600 12px Inter, Segoe UI, Arial, sans-serif; fill: #bfdbfe; }
+    .mini-label { font: 800 10px Inter, Segoe UI, Arial, sans-serif; fill: #2563eb; letter-spacing: .07em; text-transform: uppercase; }
+    .mini-value { font: 850 22px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; }
+    .count { font: 850 12px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; text-anchor: middle; }
+    .date { font: 800 11px Inter, Segoe UI, Arial, sans-serif; fill: #334155; text-anchor: middle; }
+    .month { font: 850 14px Inter, Segoe UI, Arial, sans-serif; fill: #2563eb; letter-spacing: .09em; text-transform: uppercase; }
+    .axis { font: 700 12px Inter, Segoe UI, Arial, sans-serif; fill: #64748b; }
+  </style>
+
+  <rect x="18" y="18" width="1064" height="584" rx="30" fill="url(#bg)" stroke="#dbeafe" />
+  <path d="M42 506 C235 405 372 517 562 430 C731 353 842 396 1052 286" fill="none" stroke="#bfdbfe" stroke-width="2" opacity="0.58" />
+  <path d="M58 545 C246 482 381 557 583 492 C747 438 862 454 1042 402" fill="none" stroke="#bbf7d0" stroke-width="2" opacity="0.65" />
+
+  <text x="56" y="72" class="kicker">GitHub Streak</text>
+  <text x="56" y="118" class="title">Isometric Streak Timeline</text>
+  <text x="56" y="150" class="copy">Daily edit counts, dates, and a bigger contribution skyline in one clean panel.</text>
+  <text x="56" y="175" class="tiny">Generated from the public contribution calendar on Jul 04, 2026.</text>
+
+  <g transform="translate(690 54)">
+    <rect width="168" height="112" rx="22" fill="url(#panel)" filter="url(#softShadow)" />
+    <text x="22" y="34" class="stat-label">Current streak</text>
+    <text x="22" y="75" class="stat-value">66 days</text>
+    <text x="22" y="96" class="stat-note">active through Jul 04</text>
+  </g>
+  <g transform="translate(880 54)">
+    <rect width="162" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#softShadow)" />
+    <text x="22" y="34" class="mini-label">Public window</text>
+    <text x="22" y="73" class="mini-value">341</text>
+    <text x="22" y="94" class="tiny">contributions</text>
+  </g>
+  <g transform="translate(690 186)">
+    <rect width="168" height="72" rx="18" fill="#ffffff" stroke="#dbeafe" />
+    <text x="22" y="30" class="mini-label">Best streak</text>
+    <text x="22" y="55" class="mini-value" style="font-size:20px">66 days</text>
+  </g>
+  <g transform="translate(880 186)">
+    <rect width="162" height="72" rx="18" fill="#ffffff" stroke="#dbeafe" />
+    <text x="22" y="30" class="mini-label">Active days</text>
+    <text x="22" y="55" class="mini-value" style="font-size:20px">90 days</text>
+  </g>
+
+  <g id="timeline">
+    <path d="M70 417 L1000 532 L1030 501 L102 386 Z" fill="url(#rail)" stroke="#bfdbfe" stroke-width="1.4" />
+    <path d="M115 402 L947 480" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" opacity="0.22" filter="url(#glow)" />
+    <text x="92" y="310" class="month">Jun</text>
+    <text x="734" y="397" class="month">Jul</text>
+    <text x="86" y="568" class="axis">Counts above towers. Dates below towers. Last 14 active streak days shown.</text>
+
+    <g class="tower" aria-label="Jun 21: 2 edits">
+      <polygon points="89,360 115,373 115,415 89,402" fill="#4ade80" />
+      <polygon points="141,360 115,373 115,415 141,402" fill="#22c55e" />
+      <polygon points="115,347 141,360 115,373 89,360" fill="#bbf7d0" />
+      <rect x="83" y="315" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="115" y="332" class="count">2 edits</text>
+      <text x="115" y="451" class="date">Jun 21</text>
+    </g>
+    <g class="tower" aria-label="Jun 22: 2 edits">
+      <polygon points="153,366 179,379 179,421 153,408" fill="#4ade80" />
+      <polygon points="205,366 179,379 179,421 205,408" fill="#22c55e" />
+      <polygon points="179,353 205,366 179,379 153,366" fill="#bbf7d0" />
+      <rect x="147" y="321" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="179" y="338" class="count">2 edits</text>
+      <text x="179" y="457" class="date">Jun 22</text>
+    </g>
+    <g class="tower" aria-label="Jun 23: 2 edits">
+      <polygon points="217,372 243,385 243,427 217,414" fill="#4ade80" />
+      <polygon points="269,372 243,385 243,427 269,414" fill="#22c55e" />
+      <polygon points="243,359 269,372 243,385 217,372" fill="#bbf7d0" />
+      <rect x="211" y="327" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="243" y="344" class="count">2 edits</text>
+      <text x="243" y="463" class="date">Jun 23</text>
+    </g>
+    <g class="tower" aria-label="Jun 24: 1 edit">
+      <polygon points="281,386 307,399 307,433 281,420" fill="#86efac" />
+      <polygon points="333,386 307,399 307,433 333,420" fill="#22c55e" />
+      <polygon points="307,373 333,386 307,399 281,386" fill="#dcfce7" />
+      <rect x="275" y="341" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="307" y="358" class="count">1 edit</text>
+      <text x="307" y="469" class="date">Jun 24</text>
+    </g>
+    <g class="tower" aria-label="Jun 25: 8 edits">
+      <polygon points="345,344 371,357 371,439 345,426" fill="#16a34a" />
+      <polygon points="397,344 371,357 371,439 397,426" fill="#15803d" />
+      <polygon points="371,331 397,344 371,357 345,344" fill="#4ade80" />
+      <rect x="339" y="299" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="371" y="316" class="count">8 edits</text>
+      <text x="371" y="475" class="date">Jun 25</text>
+    </g>
+    <g class="tower" aria-label="Jun 26: 8 edits">
+      <polygon points="409,350 435,363 435,445 409,432" fill="#16a34a" />
+      <polygon points="461,350 435,363 435,445 461,432" fill="#15803d" />
+      <polygon points="435,337 461,350 435,363 409,350" fill="#4ade80" />
+      <rect x="403" y="305" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="435" y="322" class="count">8 edits</text>
+      <text x="435" y="481" class="date">Jun 26</text>
+    </g>
+    <g class="tower" aria-label="Jun 27: 21 edits">
+      <polygon points="473,300 499,313 499,451 473,438" fill="#059669" />
+      <polygon points="525,300 499,313 499,451 525,438" fill="#047857" />
+      <polygon points="499,287 525,300 499,313 473,300" fill="#34d399" />
+      <rect x="460" y="255" width="78" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="499" y="272" class="count">21 edits</text>
+      <text x="499" y="487" class="date">Jun 27</text>
+    </g>
+    <g class="tower" aria-label="Jun 28: 5 edits">
+      <polygon points="537,384 563,397 563,457 537,444" fill="#22c55e" />
+      <polygon points="589,384 563,397 563,457 589,444" fill="#16a34a" />
+      <polygon points="563,371 589,384 563,397 537,384" fill="#86efac" />
+      <rect x="531" y="339" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="563" y="356" class="count">5 edits</text>
+      <text x="563" y="493" class="date">Jun 28</text>
+    </g>
+    <g class="tower" aria-label="Jun 29: 1 edit">
+      <polygon points="601,416 627,429 627,463 601,450" fill="#86efac" />
+      <polygon points="653,416 627,429 627,463 653,450" fill="#22c55e" />
+      <polygon points="627,403 653,416 627,429 601,416" fill="#dcfce7" />
+      <rect x="595" y="371" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="627" y="388" class="count">1 edit</text>
+      <text x="627" y="499" class="date">Jun 29</text>
+    </g>
+    <g class="tower" aria-label="Jun 30: 6 edits">
+      <polygon points="665,388 691,401 691,469 665,456" fill="#22c55e" />
+      <polygon points="717,388 691,401 691,469 717,456" fill="#16a34a" />
+      <polygon points="691,375 717,388 691,401 665,388" fill="#86efac" />
+      <rect x="659" y="343" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="691" y="360" class="count">6 edits</text>
+      <text x="691" y="505" class="date">Jun 30</text>
+    </g>
+    <g class="tower" aria-label="Jul 01: 1 edit">
+      <polygon points="729,428 755,441 755,475 729,462" fill="#86efac" />
+      <polygon points="781,428 755,441 755,475 781,462" fill="#22c55e" />
+      <polygon points="755,415 781,428 755,441 729,428" fill="#dcfce7" />
+      <rect x="723" y="383" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="755" y="400" class="count">1 edit</text>
+      <text x="755" y="511" class="date">Jul 01</text>
+    </g>
+    <g class="tower" aria-label="Jul 02: 3 edits">
+      <polygon points="793,418 819,431 819,481 793,468" fill="#4ade80" />
+      <polygon points="845,418 819,431 819,481 845,468" fill="#22c55e" />
+      <polygon points="819,405 845,418 819,431 793,418" fill="#bbf7d0" />
+      <rect x="787" y="373" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="819" y="390" class="count">3 edits</text>
+      <text x="819" y="517" class="date">Jul 02</text>
+    </g>
+    <g class="tower" aria-label="Jul 03: 2 edits">
+      <polygon points="857,432 883,445 883,487 857,474" fill="#4ade80" />
+      <polygon points="909,432 883,445 883,487 909,474" fill="#22c55e" />
+      <polygon points="883,419 909,432 883,445 857,432" fill="#bbf7d0" />
+      <rect x="851" y="387" width="64" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="883" y="404" class="count">2 edits</text>
+      <text x="883" y="523" class="date">Jul 03</text>
+    </g>
+    <g class="tower" aria-label="Jul 04: 19 edits">
+      <polygon points="921,352 947,365 947,493 921,480" fill="#059669" />
+      <polygon points="973,352 947,365 947,493 973,480" fill="#047857" />
+      <polygon points="947,339 973,352 947,365 921,352" fill="#34d399" />
+      <rect x="908" y="307" width="78" height="26" rx="13" fill="#ffffff" stroke="#bbf7d0" />
+      <text x="947" y="324" class="count">19 edits</text>
+      <text x="947" y="529" class="date">Jul 04</text>
+    </g>
+  </g>
+</svg>
