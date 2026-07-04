@@ -62,20 +62,10 @@ Interview-prep platform built around practical AI-assisted learning and candidat
 Automation workflow for appointment, assistant, and patient-flow style dental-care operations.<br>
 `n8n` `Automation` `Workflow`
 
-### GitHub Activity
+### GitHub Streak
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanshsenpai&theme=github" alt="GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://streak-stats.demolab.com?user=shivanshsenpai&theme=default&hide_border=true&border_radius=8&ring=2563EB&fire=2563EB&currStreakLabel=334155" alt="GitHub streak" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivanshsenpai&theme=github" alt="Repositories per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivanshsenpai&theme=github&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshsenpai&theme=minimal&hide_border=true&radius=8&area=true&color=334155&line=2563EB&point=2563EB&area_color=DBEAFE&title_color=0F172A&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img width="100%" src="./assets/isometric-streak.svg" alt="Isometric GitHub contribution streak map" />
 </p>
 
 ### Build Loop

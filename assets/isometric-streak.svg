@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+  <title id="title">Isometric GitHub streak map for Shivansh Sharma</title>
+  <desc id="desc">A polished isometric contribution streak panel showing current streak, best streak, active days, and contributions.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc" />
+      <stop offset="0.48" stop-color="#eff6ff" />
+      <stop offset="1" stop-color="#ecfdf5" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#164e63" />
+    </linearGradient>
+    <linearGradient id="rail" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.10" />
+      <stop offset="0.6" stop-color="#16a34a" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.16" />
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-40%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#0f172a" flood-opacity="0.15" />
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <g id="tile0">
+      <polygon points="0,-6 12,0 0,6 -12,0" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.7" />
+    </g>
+    <g id="cube1" filter="url(#softShadow)">
+      <polygon points="0,-18 12,-12 0,-6 -12,-12" fill="#86efac" />
+      <polygon points="-12,-12 0,-6 0,6 -12,0" fill="#22c55e" />
+      <polygon points="12,-12 0,-6 0,6 12,0" fill="#16a34a" />
+    </g>
+    <g id="cube2" filter="url(#softShadow)">
+      <polygon points="0,-26 12,-20 0,-14 -12,-20" fill="#4ade80" />
+      <polygon points="-12,-20 0,-14 0,6 -12,0" fill="#16a34a" />
+      <polygon points="12,-20 0,-14 0,6 12,0" fill="#15803d" />
+    </g>
+    <g id="cube3" filter="url(#softShadow)">
+      <polygon points="0,-34 12,-28 0,-22 -12,-28" fill="#22c55e" />
+      <polygon points="-12,-28 0,-22 0,6 -12,0" fill="#15803d" />
+      <polygon points="12,-28 0,-22 0,6 12,0" fill="#166534" />
+    </g>
+    <g id="cube4" filter="url(#softShadow)">
+      <polygon points="0,-44 12,-38 0,-32 -12,-38" fill="#10b981" />
+      <polygon points="-12,-38 0,-32 0,6 -12,0" fill="#047857" />
+      <polygon points="12,-38 0,-32 0,6 12,0" fill="#065f46" />
+    </g>
+  </defs>
+
+  <style>
+    .kicker { font: 700 13px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; fill: #2563eb; }
+    .title { font: 800 34px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; }
+    .copy { font: 500 15px Inter, Segoe UI, Arial, sans-serif; fill: #475569; }
+    .tiny { font: 600 11px Inter, Segoe UI, Arial, sans-serif; fill: #64748b; letter-spacing: .02em; }
+    .stat-label { font: 700 11px Inter, Segoe UI, Arial, sans-serif; fill: #cbd5e1; letter-spacing: .06em; text-transform: uppercase; }
+    .stat-value { font: 800 30px Inter, Segoe UI, Arial, sans-serif; fill: #ffffff; }
+    .stat-note { font: 500 12px Inter, Segoe UI, Arial, sans-serif; fill: #bfdbfe; }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+  </style>
+
+  <rect x="18" y="18" width="1064" height="394" rx="26" fill="url(#bg)" stroke="#dbeafe" />
+  <path d="M46 348 C215 267 365 375 544 292 C710 216 831 257 1048 168" fill="none" stroke="#bfdbfe" stroke-width="2" opacity="0.55" />
+  <path d="M55 376 C241 309 364 394 557 326 C719 269 843 286 1040 235" fill="none" stroke="#bbf7d0" stroke-width="2" opacity="0.6" />
+
+  <text x="56" y="68" class="kicker">GitHub Streak</text>
+  <text x="56" y="108" class="title">Isometric Streak Map</text>
+  <text x="56" y="136" class="copy">A cleaner streak view for automation, gym systems, and ship-focused work.</text>
+  <text x="56" y="158" class="tiny">Static SVG generated from the public contribution calendar on Jul 04, 2026.</text>
+
+  <g transform="translate(766 54)">
+    <rect width="276" height="166" rx="22" fill="url(#panel)" filter="url(#softShadow)" />
+    <text x="24" y="36" class="stat-label">Current streak</text>
+    <text x="24" y="76" class="stat-value">66 days</text>
+    <text x="24" y="101" class="stat-note">active through Jul 04</text>
+    <line x1="24" y1="118" x2="252" y2="118" stroke="#334155" />
+    <text x="24" y="144" class="stat-note">Best streak: 66 days</text>
+    <text x="158" y="144" class="stat-note">Active days: 90</text>
+  </g>
+
+  <g transform="translate(766 244)">
+    <rect width="276" height="96" rx="20" fill="#ffffff" stroke="#dbeafe" />
+    <text x="24" y="34" class="tiny">PUBLIC CALENDAR WINDOW</text>
+    <text x="24" y="68" class="title" style="font-size:25px">340 contributions</text>
+    <text x="24" y="86" class="copy" style="font-size:12px">3D activity strip from the public calendar.</text>
+  </g>
+
+  <g transform="translate(40 68) scale(.86)">
+    <path d="M52 166 L700 352 L814 289 L167 101 Z" fill="url(#rail)" stroke="#bfdbfe" stroke-width="1.2" />
+    <path class="pulse" d="M493 255 L692 312" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" opacity="0.55" filter="url(#glow)" />
+    <g id="map">
+      <use href="#cube1" transform="translate(466 214)" style="--i:0" />
+      <use href="#cube1" transform="translate(454 222)" style="--i:1" />
+      <use href="#cube1" transform="translate(442 230)" style="--i:2" />
+      <use href="#tile0" transform="translate(430 238)" style="--i:3" />
+      <use href="#cube1" transform="translate(418 246)" style="--i:4" />
+      <use href="#cube1" transform="translate(406 254)" style="--i:5" />
+      <use href="#cube1" transform="translate(394 262)" style="--i:6" />
+      <use href="#cube1" transform="translate(488 221)" style="--i:7" />
+      <use href="#cube1" transform="translate(476 229)" style="--i:8" />
+      <use href="#cube1" transform="translate(464 237)" style="--i:9" />
+      <use href="#cube1" transform="translate(452 245)" style="--i:10" />
+      <use href="#cube1" transform="translate(440 253)" style="--i:11" />
+      <use href="#cube2" transform="translate(428 261)" style="--i:12" />
+      <use href="#cube2" transform="translate(416 269)" style="--i:13" />
+      <use href="#cube1" transform="translate(510 228)" style="--i:14" />
+      <use href="#cube1" transform="translate(498 236)" style="--i:15" />
+      <use href="#cube1" transform="translate(486 244)" style="--i:16" />
+      <use href="#cube1" transform="translate(474 252)" style="--i:17" />
+      <use href="#cube1" transform="translate(462 260)" style="--i:18" />
+      <use href="#cube1" transform="translate(450 268)" style="--i:19" />
+      <use href="#cube1" transform="translate(438 276)" style="--i:20" />
+      <use href="#cube1" transform="translate(532 235)" style="--i:21" />
+      <use href="#cube1" transform="translate(520 243)" style="--i:22" />
+      <use href="#cube1" transform="translate(508 251)" style="--i:23" />
+      <use href="#cube1" transform="translate(496 259)" style="--i:24" />
+      <use href="#cube1" transform="translate(484 267)" style="--i:25" />
+      <use href="#cube1" transform="translate(472 275)" style="--i:26" />
+      <use href="#cube1" transform="translate(460 283)" style="--i:27" />
+      <use href="#cube1" transform="translate(554 242)" style="--i:28" />
+      <use href="#cube1" transform="translate(542 250)" style="--i:29" />
+      <use href="#cube1" transform="translate(530 258)" style="--i:30" />
+      <use href="#cube1" transform="translate(518 266)" style="--i:31" />
+      <use href="#cube1" transform="translate(506 274)" style="--i:32" />
+      <use href="#cube1" transform="translate(494 282)" style="--i:33" />
+      <use href="#cube1" transform="translate(482 290)" style="--i:34" />
+      <use href="#cube1" transform="translate(576 249)" style="--i:35" />
+      <use href="#cube1" transform="translate(564 257)" style="--i:36" />
+      <use href="#cube1" transform="translate(552 265)" style="--i:37" />
+      <use href="#cube1" transform="translate(540 273)" style="--i:38" />
+      <use href="#cube1" transform="translate(528 281)" style="--i:39" />
+      <use href="#cube3" transform="translate(516 289)" style="--i:40" />
+      <use href="#cube2" transform="translate(504 297)" style="--i:41" />
+      <use href="#cube2" transform="translate(598 256)" style="--i:42" />
+      <use href="#cube1" transform="translate(586 264)" style="--i:43" />
+      <use href="#cube2" transform="translate(574 272)" style="--i:44" />
+      <use href="#cube2" transform="translate(562 280)" style="--i:45" />
+      <use href="#cube1" transform="translate(550 288)" style="--i:46" />
+      <use href="#cube1" transform="translate(538 296)" style="--i:47" />
+      <use href="#cube1" transform="translate(526 304)" style="--i:48" />
+      <use href="#cube1" transform="translate(620 263)" style="--i:49" />
+      <use href="#cube1" transform="translate(608 271)" style="--i:50" />
+      <use href="#cube1" transform="translate(596 279)" style="--i:51" />
+      <use href="#cube1" transform="translate(584 287)" style="--i:52" />
+      <use href="#cube1" transform="translate(572 295)" style="--i:53" />
+      <use href="#cube1" transform="translate(560 303)" style="--i:54" />
+      <use href="#cube1" transform="translate(548 311)" style="--i:55" />
+      <use href="#cube1" transform="translate(642 270)" style="--i:56" />
+      <use href="#cube1" transform="translate(630 278)" style="--i:57" />
+      <use href="#cube1" transform="translate(618 286)" style="--i:58" />
+      <use href="#cube1" transform="translate(606 294)" style="--i:59" />
+      <use href="#cube2" transform="translate(594 302)" style="--i:60" />
+      <use href="#cube2" transform="translate(582 310)" style="--i:61" />
+      <use href="#cube4" transform="translate(570 318)" style="--i:62" />
+      <use href="#cube1" transform="translate(664 277)" style="--i:63" />
+      <use href="#cube1" transform="translate(652 285)" style="--i:64" />
+      <use href="#cube2" transform="translate(640 293)" style="--i:65" />
+      <use href="#cube1" transform="translate(628 301)" style="--i:66" />
+      <use href="#cube1" transform="translate(616 309)" style="--i:67" />
+      <use href="#cube1" transform="translate(604 317)" style="--i:68" />
+      <use href="#cube4" transform="translate(592 325)" style="--i:69" />
+    </g>
+  </g>
+
+  <g transform="translate(60 322)">
+    <rect width="226" height="48" rx="16" fill="#ffffff" stroke="#dbeafe" />
+    <circle cx="28" cy="24" r="9" fill="#22c55e" />
+    <text x="48" y="22" class="tiny">SINGLE STREAK VISUAL</text>
+    <text x="48" y="38" class="copy" style="font-size:12px">Clean, compact, profile-ready.</text>
+  </g>
+</svg>
