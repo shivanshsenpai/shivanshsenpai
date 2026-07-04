@@ -1,7 +1,7 @@
 <!-- Minimal dynamic GitHub profile README. GitHub blocks JavaScript, so motion comes from safe SVG services. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=AI%20automation%20%7C%20computer%20vision%20%7C%20full-stack%20experiments&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=Gym%20system%20automator%20%7C%20business%20automation%20expert%20%7C%20AI%20systems&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Building+practical+AI+and+automation+systems;Computer+vision+%2B+IoT+experiments;Full-stack+apps+that+ship;Simple+workflows+for+messy+problems" alt="Animated typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Gym+system+automator;Business+automation+expert;Building+practical+AI+and+automation+systems;Full-stack+apps+that+ship" alt="Animated typing intro" />
   </a>
 </p>
 
@@ -26,9 +26,15 @@
 
 ### About
 
-I build practical AI and automation systems, with a focus on computer vision, IoT, workflow automation, and full-stack projects that are easy to demo and ship.
+I build practical AI and business automation systems, with a focus on gym management tools, workflow automation, computer vision, IoT, and full-stack projects that are easy to demo and ship.
 
 Right now I am sharpening machine learning and IoT while turning messy spreadsheet and workflow problems into cleaner tools.
+
+### Focus
+
+`Gym System Automator` / `Business Automation Expert` / `AI Workflow Builder`
+
+Applied in gym member portals, admin dashboards, attendance and fee systems, Google Sheets operations, seller workflows, dental-care workflows, and custom service-business automation.
 
 ### Stack
 
@@ -37,8 +43,8 @@ Right now I am sharpening machine learning and IoT while turning messy spreadshe
 ### Selected Work
 
 **[GymDesks](https://gymdesks.netlify.app/)**<br>
-Gym website, member portal, and admin desk template created by Shivansh Sharma for Astra Gym, Mfitness, MDES, and custom fitness brands.<br>
-`React` `Vite` `Google Sheets` `Fitness Tech`
+Gym system automation for websites, member portals, admin desks, attendance, and fee-management workflows. Applied for Astra Gym, Mfitness, MDES, and custom fitness brands.<br>
+`React` `Vite` `Google Sheets` `Gym Automation`
 
 **[DJI Ryze Tello Detection](https://github.com/shivanshsenpai/DJI_Ryze_tello_face-Recognition-Human_Body_detection)**<br>
 Drone-based face recognition and human/body detection experiment for real-world computer vision.<br>
