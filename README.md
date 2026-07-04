@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://shivansh-sharma-portfolio.vercel.app/">Portfolio</a>
   &nbsp;/&nbsp;
-  <a href="https://gymdesks.netlify.app/">GymDesk</a>
+  <a href="https://gymdesks.netlify.app/">GymDesks</a>
   &nbsp;/&nbsp;
   <a href="https://github.com/shivanshsenpai?tab=repositories">Projects</a>
   &nbsp;/&nbsp;
@@ -36,7 +36,7 @@ Right now I am sharpening machine learning and IoT while turning messy spreadshe
 
 ### Selected Work
 
-**[GymDesk](https://gymdesks.netlify.app/)**<br>
+**[GymDesks](https://gymdesks.netlify.app/)**<br>
 Gym website, member portal, and admin desk template created by Shivansh Sharma for Astra Gym, Mfitness, MDES, and custom fitness brands.<br>
 `React` `Vite` `Google Sheets` `Fitness Tech`
 
