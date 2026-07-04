@@ -17,6 +17,8 @@
 <p align="center">
   <a href="https://shivansh-sharma-portfolio.vercel.app/">Portfolio</a>
   &nbsp;/&nbsp;
+  <a href="https://gymdesks.netlify.app/">GymDesk</a>
+  &nbsp;/&nbsp;
   <a href="https://github.com/shivanshsenpai?tab=repositories">Projects</a>
   &nbsp;/&nbsp;
   <a href="https://www.instagram.com/shiviSenpai/">Instagram</a>
@@ -33,6 +35,10 @@ Right now I am sharpening machine learning and IoT while turning messy spreadshe
 `Python` / `JavaScript` / `TypeScript` / `React` / `Node.js` / `HTML` / `CSS` / `OpenCV` / `Google Apps Script` / `n8n` / `Git`
 
 ### Selected Work
+
+**[GymDesk](https://gymdesks.netlify.app/)**<br>
+Gym website, member portal, and admin desk template created by Shivansh Sharma for Astra Gym, Mfitness, MDES, and custom fitness brands.<br>
+`React` `Vite` `Google Sheets` `Fitness Tech`
 
 **[DJI Ryze Tello Detection](https://github.com/shivanshsenpai/DJI_Ryze_tello_face-Recognition-Human_Body_detection)**<br>
 Drone-based face recognition and human/body detection experiment for real-world computer vision.<br>
