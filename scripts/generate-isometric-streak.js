@@ -114,14 +114,14 @@ function computeStats(days) {
 
 function towerHeight(count) {
   if (count <= 0) return 0;
-  if (count >= 20) return 100;
-  if (count >= 15) return 88;
-  if (count >= 10) return 72;
-  if (count >= 7) return 58;
-  if (count >= 5) return 48;
-  if (count >= 3) return 38;
-  if (count >= 2) return 30;
-  return 22;
+  if (count >= 20) return 78;
+  if (count >= 15) return 68;
+  if (count >= 10) return 58;
+  if (count >= 7) return 48;
+  if (count >= 5) return 40;
+  if (count >= 3) return 32;
+  if (count >= 2) return 26;
+  return 20;
 }
 
 function towerColors(count) {
@@ -133,7 +133,7 @@ function towerColors(count) {
 }
 
 function renderTile(cx, by) {
-  return `<polygon points="${cx},${by - 6} ${cx + 13},${by} ${cx},${by + 6} ${cx - 13},${by}" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />`;
+  return `<polygon points="${cx},${by - 7} ${cx + 15},${by} ${cx},${by + 7} ${cx - 15},${by}" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />`;
 }
 
 function renderTower(day, position) {
@@ -143,13 +143,13 @@ function renderTower(day, position) {
   const height = towerHeight(day.count);
   const topY = by - height;
   const [top, left, right] = towerColors(day.count);
-  const label = day.count >= 10 ? day.count : String(day.count);
+  const label = String(day.count);
   return [
     `<g class="tower">`,
     `<title>${escapeXml(`${formatDay(parseDate(day.date))}: ${day.count} ${day.count === 1 ? "edit" : "edits"}`)}</title>`,
-    `<polygon points="${cx - 13},${topY} ${cx},${topY + 7} ${cx},${by + 7} ${cx - 13},${by}" fill="${left}" />`,
-    `<polygon points="${cx + 13},${topY} ${cx},${topY + 7} ${cx},${by + 7} ${cx + 13},${by}" fill="${right}" />`,
-    `<polygon points="${cx},${topY - 7} ${cx + 13},${topY} ${cx},${topY + 7} ${cx - 13},${topY}" fill="${top}" />`,
+    `<polygon points="${cx - 15},${topY} ${cx},${topY + 8} ${cx},${by + 8} ${cx - 15},${by}" fill="${left}" />`,
+    `<polygon points="${cx + 15},${topY} ${cx},${topY + 8} ${cx},${by + 8} ${cx + 15},${by}" fill="${right}" />`,
+    `<polygon points="${cx},${topY - 8} ${cx + 15},${topY} ${cx},${topY + 8} ${cx - 15},${topY}" fill="${top}" />`,
     `<text x="${cx}" y="${topY - 12}" class="count">${label}</text>`,
     `</g>`
   ].join("\n");
@@ -163,7 +163,7 @@ function renderMonthLabels(days, positions) {
     const month = monthName(date);
     if (month !== lastMonth) {
       const position = positions[index];
-      labels.push(`<text x="${position.cx - 8}" y="${Math.max(282, position.by - 178)}" class="month">${month}</text>`);
+      labels.push(`<text x="${position.cx - 8}" y="282" class="month">${month}</text>`);
       lastMonth = month;
     }
   });
@@ -175,10 +175,11 @@ function renderWeekTicks(days, positions) {
   days.forEach((day, index) => {
     const date = parseDate(day.date);
     const isFirst = index === 0;
-    const isSunday = date.getUTCDay() === 0;
-    if (!isFirst && !isSunday) return;
+    const isMonthStartWeek = date.getUTCDay() === 0 && date.getUTCDate() <= 7;
+    const isLast = index === days.length - 1;
+    if (!isFirst && !isMonthStartWeek && !isLast) return;
     const position = positions[index];
-    ticks.push(`<text x="${position.cx}" y="${position.by + 43}" class="date">${formatDay(date)}</text>`);
+    ticks.push(`<text x="${position.cx}" y="640" class="date">${formatDay(date)}</text>`);
   });
   return ticks.join("\n");
 }
@@ -196,8 +197,8 @@ function buildSvg(days, stats, rangeStart, rangeEnd) {
     const week = Math.floor(index / 7);
     const dow = index % 7;
     return {
-      cx: 95 + week * 39 - dow * 9,
-      by: 452 + week * 6 + dow * 13
+      cx: 94 + week * 39,
+      by: 344 + dow * 37
     };
   });
 
@@ -284,12 +285,13 @@ function buildSvg(days, stats, rangeStart, rangeEnd) {
   <g transform="translate(924 186)">
     <rect width="204" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Active days / peak</text>
-    <text x="22" y="56" class="mini-value" style="font-size:20px">${stats.active} days · ${stats.peak.count} on ${escapeXml(peakDate)}</text>
+    <text x="22" y="52" class="mini-value" style="font-size:18px">${stats.active} active days</text>
+    <text x="22" y="67" class="tiny">Peak: ${stats.peak.count} on ${escapeXml(peakDate)}</text>
   </g>
 
   <g id="timeline">
-    <path d="M58 492 L1086 708 L1132 666 L102 450 Z" fill="url(#rail)" stroke="#bfdbfe" stroke-width="1.4" />
-    <path d="M95 452 L1055 686" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" opacity="0.20" filter="url(#glow)" />
+    <path d="M62 328 L1144 328 L1160 618 L78 618 Z" fill="url(#rail)" stroke="#bfdbfe" stroke-width="1.4" />
+    <path d="M90 606 C360 548 745 638 1128 560" fill="none" stroke="#22c55e" stroke-width="7" stroke-linecap="round" opacity="0.18" filter="url(#glow)" />
     ${monthLabels}
     ${towers}
     ${weekTicks}
