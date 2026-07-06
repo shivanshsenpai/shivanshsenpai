@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/shooting-stars.svg" alt="Subtle shooting star animation" />
+  <img width="100%" src="./assets/cozy-dev-desk.png" alt="Cozy developer desk with two laptops" />
 </p>
 
 <p align="center">
