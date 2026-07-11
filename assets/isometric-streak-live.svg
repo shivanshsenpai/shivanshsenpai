@@ -52,13 +52,13 @@
   <text x="58" y="72" class="kicker">GitHub Streak</text>
   <text x="58" y="118" class="title">Six-Month Isometric Timeline</text>
   <text x="58" y="150" class="copy">Every tower is a day. Height and number show daily edits across the last six months.</text>
-  <text x="58" y="175" class="tiny">Range: Jan 11 - Jul 10, 2026. Auto-generated from the public GitHub contribution calendar.</text>
+  <text x="58" y="175" class="tiny">Range: Jan 12 - Jul 11, 2026. Auto-generated from the public GitHub contribution calendar.</text>
 
   <g transform="translate(730 54)">
     <rect width="172" height="112" rx="22" fill="url(#panel)" filter="url(#shadow)" />
     <text x="22" y="34" class="stat-label">Current streak</text>
-    <text x="22" y="75" class="stat-value">86 days</text>
-    <text x="22" y="96" class="stat-note">through Jul 10</text>
+    <text x="22" y="75" class="stat-value">0 days</text>
+    <text x="22" y="96" class="stat-note">through Jul 11</text>
   </g>
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
@@ -839,6 +839,7 @@
 <polygon points="1069,489 1084,497 1069,505 1054,497" fill="#bbf7d0" />
 <text x="1069" y="485" class="count">3</text>
 </g>
+<polygon points="1069,559 1084,566 1069,573 1054,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
     <text x="94" y="640" class="date">Jan 11</text>
 <text x="211" y="640" class="date">Feb 01</text>
 <text x="367" y="640" class="date">Mar 01</text>
@@ -846,8 +847,8 @@
 <text x="718" y="640" class="date">May 03</text>
 <text x="913" y="640" class="date">Jun 07</text>
 <text x="1069" y="640" class="date">Jul 05</text>
-<text x="1069" y="640" class="date">Jul 10</text>
+<text x="1069" y="640" class="date">Jul 11</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-07-10 19:22 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-07-11 02:13 UTC</text>
   </g>
 </svg>
