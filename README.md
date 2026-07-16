@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img width="92" src="./assets/tiny-cat.svg" alt="Tiny cozy cat" />
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Gym+system+automator;Business+automation+expert;Building+practical+AI+and+automation+systems;Full-stack+apps+that+ship" alt="Animated typing intro" />
   </a>
