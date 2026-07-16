@@ -69,7 +69,7 @@ Automation workflow for appointment, assistant, and patient-flow style dental-ca
 ### GitHub Streak
 
 <p align="center">
-  <img width="100%" src="./assets/isometric-streak-live.svg?v=202607161341" alt="Dynamic six-month isometric GitHub contribution timeline" />
+  <img width="100%" src="./assets/isometric-streak-live.svg?v=202607161903" alt="Dynamic six-month isometric GitHub contribution timeline" />
 </p>
 
 ### Build Loop
