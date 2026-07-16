@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 150" role="img" aria-labelledby="title desc">
+  <title id="title">Cute cat mascot</title>
+  <desc id="desc">A round smiling cat with big eyes, blush, tiny paws, and a small heart.</desc>
+  <defs>
+    <linearGradient id="fur" x1="58" y1="22" x2="152" y2="136" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7ED"/>
+      <stop offset=".55" stop-color="#FEF3C7"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="154" y1="72" x2="203" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="1" stop-color="#F9A8D4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#0F172A" flood-opacity=".13"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="110" cy="134" rx="70" ry="9" fill="#DBEAFE"/>
+
+  <g filter="url(#shadow)">
+    <path d="M159 94c18-18 49-10 45 12-3 18-31 20-43 5" fill="none" stroke="url(#tail)" stroke-width="15" stroke-linecap="round"/>
+    <path d="M51 69c0-29 24-52 59-52s59 23 59 52v21c0 32-25 49-59 49s-59-17-59-49V69Z" fill="url(#fur)" stroke="#475569" stroke-width="4"/>
+    <path d="M64 42 50 9l35 15" fill="#FED7AA" stroke="#475569" stroke-width="4" stroke-linejoin="round"/>
+    <path d="m156 42 14-33-35 15" fill="#FED7AA" stroke="#475569" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M66 30 58 14l17 9" fill="#FDA4AF" opacity=".75"/>
+    <path d="m154 30 8-16-17 9" fill="#FDA4AF" opacity=".75"/>
+
+    <ellipse cx="86" cy="75" rx="10" ry="13" fill="#0F172A"/>
+    <ellipse cx="134" cy="75" rx="10" ry="13" fill="#0F172A"/>
+    <circle cx="90" cy="70" r="3.5" fill="#FFFFFF"/>
+    <circle cx="138" cy="70" r="3.5" fill="#FFFFFF"/>
+    <circle cx="83" cy="81" r="2.2" fill="#93C5FD" opacity=".8"/>
+    <circle cx="131" cy="81" r="2.2" fill="#93C5FD" opacity=".8"/>
+
+    <path d="M110 83v5" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M99 95c5 7 17 7 22 0" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M70 91H35M73 101H41M150 91h35M147 101h32" stroke="#64748B" stroke-width="3.5" stroke-linecap="round"/>
+
+    <circle cx="76" cy="92" r="8" fill="#FDA4AF" opacity=".8"/>
+    <circle cx="144" cy="92" r="8" fill="#FDA4AF" opacity=".8"/>
+    <path d="M82 126c0-12 8-20 20-21M138 126c0-12-8-20-20-21" fill="none" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+    <path d="M91 128c5 3 10 3 15 0M114 128c5 3 10 3 15 0" fill="none" stroke="#FB7185" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <path d="M188 41c-8-9-22 1-11 14l11 12 11-12c11-13-3-23-11-14Z" fill="#FB7185"/>
+  <circle cx="40" cy="48" r="4" fill="#60A5FA" opacity=".8"/>
+  <circle cx="181" cy="80" r="3" fill="#FBBF24" opacity=".9"/>
+  <path d="M35 72h10M40 67v10M186 24h9M190.5 19.5v9" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+</svg>

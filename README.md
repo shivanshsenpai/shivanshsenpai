@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="92" src="./assets/tiny-cat.svg" alt="Tiny cozy cat" />
+  <img width="118" src="./assets/cute-cat.svg" alt="Cute cat mascot" />
 </p>
 
 <p align="center">
