@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 150" role="img" aria-labelledby="title desc">
   <title id="title">Cute cat mascot</title>
-  <desc id="desc">A round smiling cat with big eyes, blush, tiny paws, and a small heart.</desc>
+  <desc id="desc">A round smiling cat with big eyes, blush, tiny paws, a small heart, and drifting sakura petals.</desc>
   <defs>
     <linearGradient id="fur" x1="58" y1="22" x2="152" y2="136" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFF7ED"/>
@@ -15,6 +15,36 @@
       <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#0F172A" flood-opacity=".13"/>
     </filter>
   </defs>
+
+  <g aria-hidden="true">
+    <g opacity="0">
+      <g>
+        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#F9A8D4"/>
+        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FCE7F3" stroke-width="1.4" stroke-linecap="round"/>
+        <animateTransform attributeName="transform" type="rotate" values="-25 7 4;335 7 4" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" values="-30 37;246 70" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.82;.82;0" keyTimes="0;.12;.84;1" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <g>
+        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#FBCFE8"/>
+        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FDF2F8" stroke-width="1.4" stroke-linecap="round"/>
+        <animateTransform attributeName="transform" type="rotate" values="20 7 4;-340 7 4" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" values="-22 89;242 35" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.74;.74;0" keyTimes="0;.1;.86;1" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <g>
+        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#FDA4AF"/>
+        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FFF1F2" stroke-width="1.4" stroke-linecap="round"/>
+        <animateTransform attributeName="transform" type="rotate" values="-10 7 4;350 7 4" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" values="-18 58;238 100" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.14;.82;1" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
 
   <ellipse cx="110" cy="134" rx="70" ry="9" fill="#DBEAFE"/>
 
@@ -34,7 +64,10 @@
     <circle cx="131" cy="81" r="2.2" fill="#93C5FD" opacity=".8"/>
 
     <path d="M110 83v5" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
-    <path d="M99 95c5 7 17 7 22 0" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M99 95c5 7 17 7 22 0" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="d" values="M99 95c5 7 17 7 22 0;M99 94c5 10 17 10 22 0;M99 95c5 7 17 7 22 0" keyTimes="0;.5;1" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="4;4.7;4" keyTimes="0;.5;1" dur="3.2s" repeatCount="indefinite"/>
+    </path>
     <path d="M70 91H35M73 101H41M150 91h35M147 101h32" stroke="#64748B" stroke-width="3.5" stroke-linecap="round"/>
 
     <circle cx="76" cy="92" r="8" fill="#FDA4AF" opacity=".8"/>
