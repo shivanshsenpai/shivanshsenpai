@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 150" role="img" aria-labelledby="title desc">
-  <title id="title">Cute cat mascot</title>
-  <desc id="desc">A round smiling cat that blinks and swishes its tail beneath a pulsing heart and drifting sakura petals.</desc>
+  <title id="title">Cool cat mascot</title>
+  <desc id="desc">A round cool cat wearing sunglasses that swishes its tail beneath a pulsing star and drifting stars.</desc>
   <defs>
     <linearGradient id="fur" x1="58" y1="22" x2="152" y2="136" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFF7ED"/>
@@ -14,32 +14,38 @@
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
       <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#0F172A" flood-opacity=".13"/>
     </filter>
+    <clipPath id="left-lens-clip">
+      <path d="M 69 63 L 103 63 L 100 84 C 99 90 74 90 72 84 Z"/>
+    </clipPath>
+    <clipPath id="right-lens-clip">
+      <path d="M 117 63 L 151 63 L 148 84 C 147 90 122 90 120 84 Z"/>
+    </clipPath>
   </defs>
 
   <g aria-hidden="true">
+    <!-- Floating Star 1 (Cyan) -->
     <g opacity="0">
       <g>
-        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#F9A8D4"/>
-        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FCE7F3" stroke-width="1.4" stroke-linecap="round"/>
-        <animateTransform attributeName="transform" type="rotate" values="-25 7 4;335 7 4" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
+        <path d="M0 -7 C0 -2 2 0 7 0 C2 0 0 2 0 7 C0 2 -2 0 -7 0 C-2 0 0 -2 0 -7 Z" fill="#38BDF8"/>
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="6s" repeatCount="indefinite"/>
       </g>
       <animateTransform attributeName="transform" type="translate" values="-30 37;246 70" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.82;.82;0" keyTimes="0;.12;.84;1" dur="7.4s" begin="-2.7s" repeatCount="indefinite"/>
     </g>
+    <!-- Floating Star 2 (Gold) -->
     <g opacity="0">
       <g>
-        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#FBCFE8"/>
-        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FDF2F8" stroke-width="1.4" stroke-linecap="round"/>
-        <animateTransform attributeName="transform" type="rotate" values="20 7 4;-340 7 4" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
+        <path d="M0 -5 C0 -1.5 1.5 0 5 0 C1.5 0 0 1.5 0 5 C0 1.5 -1.5 0 -5 0 C-1.5 0 0 -1.5 0 -5 Z" fill="#FBBF24"/>
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0;-360 0 0" dur="8s" repeatCount="indefinite"/>
       </g>
       <animateTransform attributeName="transform" type="translate" values="-22 89;242 35" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.74;.74;0" keyTimes="0;.1;.86;1" dur="8.7s" begin="-6.1s" repeatCount="indefinite"/>
     </g>
+    <!-- Floating Star 3 (Violet) -->
     <g opacity="0">
       <g>
-        <path d="M0 0c5-8 14-7 15 0-2 6-8 9-15 9C-5 6-5 2 0 0Z" fill="#FDA4AF"/>
-        <path d="M3 1c3-3 7-3 9-1" fill="none" stroke="#FFF1F2" stroke-width="1.4" stroke-linecap="round"/>
-        <animateTransform attributeName="transform" type="rotate" values="-10 7 4;350 7 4" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
+        <path d="M0 -8 C0 -2.5 2.5 0 8 0 C2.5 0 0 2.5 0 8 C0 2.5 -2.5 0 -8 0 C-2.5 0 0 -2.5 0 -8 Z" fill="#C084FC"/>
+        <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="5s" repeatCount="indefinite"/>
       </g>
       <animateTransform attributeName="transform" type="translate" values="-18 58;238 100" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.14;.82;1" dur="6.6s" begin="-4.8s" repeatCount="indefinite"/>
@@ -55,8 +61,8 @@
     <path d="M51 69c0-29 24-52 59-52s59 23 59 52v21c0 32-25 49-59 49s-59-17-59-49V69Z" fill="url(#fur)" stroke="#475569" stroke-width="4"/>
     <path d="M64 42 50 9l35 15" fill="#FED7AA" stroke="#475569" stroke-width="4" stroke-linejoin="round"/>
     <path d="m156 42 14-33-35 15" fill="#FED7AA" stroke="#475569" stroke-width="4" stroke-linejoin="round"/>
-    <path d="M66 30 58 14l17 9" fill="#FDA4AF" opacity=".75"/>
-    <path d="m154 30 8-16-17 9" fill="#FDA4AF" opacity=".75"/>
+    <path d="M66 30 58 14l17 9" fill="#FDBA74" opacity=".75"/>
+    <path d="m154 30 8-16-17 9" fill="#FDBA74" opacity=".75"/>
 
     <ellipse cx="86" cy="75" rx="10" ry="13" fill="#0F172A">
       <animate attributeName="ry" values="13;13;1.4;13;13" keyTimes="0;.42;.46;.5;1" dur="5.6s" repeatCount="indefinite"/>
@@ -77,6 +83,30 @@
       <animate attributeName="opacity" values=".8;.8;0;.8;.8" keyTimes="0;.42;.46;.5;1" dur="5.6s" repeatCount="indefinite"/>
     </circle>
 
+    <!-- Cool sunglasses with animated glares -->
+    <g id="sunglasses">
+      <!-- Left Lens (Clipped for Glare) -->
+      <g clip-path="url(#left-lens-clip)">
+        <path d="M 69 63 L 103 63 L 100 84 C 99 90 74 90 72 84 Z" fill="#1E293B"/>
+        <path d="M 55 50 L 65 50 L 45 95 L 35 95 Z" fill="#FFFFFF" opacity="0.35">
+          <animateTransform attributeName="transform" type="translate" values="-10 0; 70 0; -10 0" keyTimes="0; .6; 1" dur="4.5s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <!-- Right Lens (Clipped for Glare) -->
+      <g clip-path="url(#right-lens-clip)">
+        <path d="M 117 63 L 151 63 L 148 84 C 147 90 122 90 120 84 Z" fill="#1E293B"/>
+        <path d="M 103 50 L 113 50 L 93 95 L 83 95 Z" fill="#FFFFFF" opacity="0.35">
+          <animateTransform attributeName="transform" type="translate" values="-10 0; 70 0; -10 0" keyTimes="0; .6; 1" dur="4.5s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <!-- Frame and Bridge -->
+      <path d="M 69 63 L 103 63 L 100 84 C 99 90 74 90 72 84 Z" fill="none" stroke="#0F172A" stroke-width="4"/>
+      <path d="M 117 63 L 151 63 L 148 84 C 147 90 122 90 120 84 Z" fill="none" stroke="#0F172A" stroke-width="4"/>
+      <path d="M 103 65 L 117 65" fill="none" stroke="#0F172A" stroke-width="4.5" stroke-linecap="round"/>
+      <path d="M 69 65 L 53 69" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <path d="M 151 65 L 167 69" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
     <path d="M110 83v5" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
     <path d="M99 95c5 7 17 7 22 0" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round">
       <animate attributeName="d" values="M99 95c5 7 17 7 22 0;M99 94c5 10 17 10 22 0;M99 95c5 7 17 7 22 0" keyTimes="0;.5;1" dur="3.2s" repeatCount="indefinite"/>
@@ -84,15 +114,15 @@
     </path>
     <path d="M70 91H35M73 101H41M150 91h35M147 101h32" stroke="#64748B" stroke-width="3.5" stroke-linecap="round"/>
 
-    <circle cx="76" cy="92" r="8" fill="#FDA4AF" opacity=".8"/>
-    <circle cx="144" cy="92" r="8" fill="#FDA4AF" opacity=".8"/>
+    <!-- Blushing cheeks removed for a cool attitude -->
     <path d="M82 126c0-12 8-20 20-21M138 126c0-12-8-20-20-21" fill="none" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
     <path d="M91 128c5 3 10 3 15 0M114 128c5 3 10 3 15 0" fill="none" stroke="#FB7185" stroke-width="3" stroke-linecap="round"/>
   </g>
 
+  <!-- Pulsing cyan star instead of heart -->
   <g transform="translate(188 53)" aria-hidden="true">
     <g>
-      <path d="M0-12c-8-9-22 1-11 14l11 12 11-12c11-13-3-23-11-14Z" fill="#FB7185"/>
+      <path d="M0 -15 C0 -4 4 0 15 0 C4 0 0 4 0 15 C0 4 -4 0 -15 0 C-4 0 0 -4 0 -15 Z" fill="#22D3EE"/>
       <animateTransform attributeName="transform" type="scale" values="1;1.14;1;1" keyTimes="0;.16;.32;1" dur="2.7s" repeatCount="indefinite"/>
     </g>
   </g>
