@@ -1,7 +1,7 @@
 <!-- Minimal dynamic GitHub profile README. GitHub blocks JavaScript, so motion comes from safe SVG services. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=Gym%20system%20automator%20%7C%20Automated%20Marketing%20Agency%20%7C%20AI%20%26%20Business%20Automation&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=Gym%20system%20automator%20%7C%20Automated%20Marketing%20Agency%20%7C%20AI%20and%20Business%20Automation&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
 </p>
 
 <p align="center">
