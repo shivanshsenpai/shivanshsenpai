@@ -1,7 +1,7 @@
 <!-- Minimal dynamic GitHub profile README. GitHub blocks JavaScript, so motion comes from safe SVG services. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=Gym%20system%20automator%20%7C%20business%20automation%20expert%20%7C%20AI%20systems&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,45:DBEAFE,100:BFDBFE&text=Shivansh%20Sharma&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=48&desc=Gym%20system%20automator%20%7C%20Automated%20Marketing%20Agency%20%7C%20AI%20%26%20Business%20Automation&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="Shivansh Sharma profile header" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Gym+system+automator;Business+automation+expert;Building+practical+AI+and+automation+systems;Full-stack+apps+that+ship" alt="Animated typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=780&lines=Gym+system+automator;Automated+Marketing+Agency;AI+%26+Business+Automation+Expert;Building+practical+AI+and+marketing+systems;Full-stack+apps+that+ship" alt="Animated typing intro" />
   </a>
 </p>
 
@@ -30,19 +30,19 @@
 
 ### About
 
-I build practical AI and business automation systems, with a focus on gym management tools, workflow automation, computer vision, IoT, and full-stack projects that are easy to demo and ship.
+I build practical AI, automated marketing agency systems, and business automation solutions—with a focus on gym management tools, AI-driven marketing & lead gen, workflow automation, computer vision, IoT, and full-stack projects that are easy to demo and ship.
 
 Right now I am sharpening machine learning and IoT while turning messy spreadsheet and workflow problems into cleaner tools.
 
 ### Focus
 
-`Gym System Automator` / `Business Automation Expert` / `AI Workflow Builder`
+`Gym System Automator` / `Automated Marketing Agency` / `Business Automation Expert` / `AI Workflow Builder`
 
-Applied in gym member portals, admin dashboards, attendance and fee systems, Google Sheets operations, seller workflows, dental-care workflows, and custom service-business automation.
+Applied in automated marketing campaigns, lead gen & CRM systems, gym member portals, admin dashboards, attendance and fee systems, Google Sheets operations, seller workflows, dental-care workflows, and custom service-business automation.
 
 ### Stack
 
-`Python` / `JavaScript` / `TypeScript` / `React` / `Node.js` / `HTML` / `CSS` / `OpenCV` / `Google Apps Script` / `n8n` / `Git`
+`Python` / `JavaScript` / `TypeScript` / `React` / `Node.js` / `HTML` / `CSS` / `OpenCV` / `Google Apps Script` / `n8n` / `CRM & Marketing Automation` / `Git`
 
 ### Selected Work
 
@@ -78,7 +78,7 @@ Automation workflow for appointment, assistant, and patient-flow style dental-ca
 Idea -> Prototype -> Demo -> Feedback -> Ship -> Improve
 ```
 
-AI for usefulness. Automation for leverage. IoT for real-world feedback. Full-stack for shipping the whole thing.
+AI for usefulness. Automation for leverage. Marketing for growth. IoT for real-world feedback. Full-stack for shipping the whole thing.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:BFDBFE,55:DBEAFE,100:F8FAFC" alt="Profile footer wave" />
