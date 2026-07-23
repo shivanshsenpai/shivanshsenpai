@@ -57,24 +57,24 @@
   <g transform="translate(730 54)">
     <rect width="172" height="112" rx="22" fill="url(#panel)" filter="url(#shadow)" />
     <text x="22" y="34" class="stat-label">Current streak</text>
-    <text x="22" y="75" class="stat-value">0 days</text>
+    <text x="22" y="75" class="stat-value">99 days</text>
     <text x="22" y="96" class="stat-note">through Jul 23</text>
   </g>
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
     <text x="22" y="34" class="mini-label">Six-month total</text>
-    <text x="22" y="73" class="mini-value">371</text>
+    <text x="22" y="73" class="mini-value">374</text>
     <text x="22" y="94" class="tiny">contributions</text>
   </g>
   <g transform="translate(730 186)">
     <rect width="172" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Best streak</text>
-    <text x="22" y="56" class="mini-value" style="font-size:20px">98 days</text>
+    <text x="22" y="56" class="mini-value" style="font-size:20px">99 days</text>
   </g>
   <g transform="translate(924 186)">
     <rect width="204" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Active days / peak</text>
-    <text x="22" y="52" class="mini-value" style="font-size:18px">105 active days</text>
+    <text x="22" y="52" class="mini-value" style="font-size:18px">106 active days</text>
     <text x="22" y="67" class="tiny">Peak: 22 on Jul 04</text>
   </g>
 
@@ -904,7 +904,13 @@
 <polygon points="1108,421 1123,429 1108,437 1093,429" fill="#bbf7d0" />
 <text x="1108" y="417" class="count">2</text>
 </g>
-<polygon points="1108,485 1123,492 1108,499 1093,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<g class="tower">
+<title>Jul 23: 3 edits</title>
+<polygon points="1093,460 1108,468 1108,500 1093,492" fill="#4ade80" />
+<polygon points="1123,460 1108,468 1108,500 1123,492" fill="#22c55e" />
+<polygon points="1108,452 1123,460 1108,468 1093,460" fill="#bbf7d0" />
+<text x="1108" y="448" class="count">3</text>
+</g>
     <text x="94" y="640" class="date">Jan 18</text>
 <text x="172" y="640" class="date">Feb 01</text>
 <text x="328" y="640" class="date">Mar 01</text>
@@ -914,6 +920,6 @@
 <text x="1030" y="640" class="date">Jul 05</text>
 <text x="1108" y="640" class="date">Jul 23</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-07-23 13:48 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-07-23 19:09 UTC</text>
   </g>
 </svg>
