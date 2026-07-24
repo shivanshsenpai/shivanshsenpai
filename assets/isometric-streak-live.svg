@@ -52,13 +52,13 @@
   <text x="58" y="72" class="kicker">GitHub Streak</text>
   <text x="58" y="118" class="title">Six-Month Isometric Timeline</text>
   <text x="58" y="150" class="copy">Every tower is a day. Height and number show daily edits across the last six months.</text>
-  <text x="58" y="175" class="tiny">Range: Jan 24 - Jul 23, 2026. Auto-generated from the public GitHub contribution calendar.</text>
+  <text x="58" y="175" class="tiny">Range: Jan 25 - Jul 24, 2026. Auto-generated from the public GitHub contribution calendar.</text>
 
   <g transform="translate(730 54)">
     <rect width="172" height="112" rx="22" fill="url(#panel)" filter="url(#shadow)" />
     <text x="22" y="34" class="stat-label">Current streak</text>
-    <text x="22" y="75" class="stat-value">99 days</text>
-    <text x="22" y="96" class="stat-note">through Jul 23</text>
+    <text x="22" y="75" class="stat-value">0 days</text>
+    <text x="22" y="96" class="stat-note">through Jul 24</text>
   </g>
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
@@ -82,31 +82,31 @@
     <path d="M62 328 L1144 328 L1160 618 L78 618 Z" fill="url(#rail)" stroke="#bfdbfe" stroke-width="1.4" />
     <path d="M90 606 C360 548 745 638 1128 560" fill="none" stroke="#22c55e" stroke-width="7" stroke-linecap="round" opacity="0.18" filter="url(#glow)" />
     <text x="86" y="282" class="month">Jan</text>
-<text x="164" y="282" class="month">Feb</text>
-<text x="320" y="282" class="month">Mar</text>
-<text x="476" y="282" class="month">Apr</text>
-<text x="632" y="282" class="month">May</text>
-<text x="827" y="282" class="month">Jun</text>
-<text x="983" y="282" class="month">Jul</text>
+<text x="125" y="282" class="month">Feb</text>
+<text x="281" y="282" class="month">Mar</text>
+<text x="437" y="282" class="month">Apr</text>
+<text x="593" y="282" class="month">May</text>
+<text x="788" y="282" class="month">Jun</text>
+<text x="944" y="282" class="month">Jul</text>
     <polygon points="94,337 109,344 94,351 79,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,374 109,381 94,388 79,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,411 109,418 94,425 79,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,448 109,455 94,462 79,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,485 109,492 94,499 79,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="94,522 109,529 94,536 79,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<g class="tower">
+<title>Jan 30: 3 edits</title>
+<polygon points="79,497 94,505 94,537 79,529" fill="#4ade80" />
+<polygon points="109,497 94,505 94,537 109,529" fill="#22c55e" />
+<polygon points="94,489 109,497 94,505 79,497" fill="#bbf7d0" />
+<text x="94" y="485" class="count">3</text>
+</g>
 <polygon points="94,559 109,566 94,573 79,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,337 148,344 133,351 118,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,374 148,381 133,388 118,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,411 148,418 133,425 118,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,448 148,455 133,462 118,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,485 148,492 133,499 118,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<g class="tower">
-<title>Jan 30: 3 edits</title>
-<polygon points="118,497 133,505 133,537 118,529" fill="#4ade80" />
-<polygon points="148,497 133,505 133,537 148,529" fill="#22c55e" />
-<polygon points="133,489 148,497 133,505 118,497" fill="#bbf7d0" />
-<text x="133" y="485" class="count">3</text>
-</g>
+<polygon points="133,522 148,529 133,536 118,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="133,559 148,566 133,573 118,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="172,337 187,344 172,351 157,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="172,374 187,381 172,388 157,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
@@ -149,777 +149,771 @@
 <polygon points="367,448 382,455 367,462 352,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="367,485 382,492 367,499 352,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="367,522 382,529 367,536 352,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="367,559 382,566 367,573 352,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<g class="tower">
+<title>Mar 21: 3 edits</title>
+<polygon points="352,534 367,542 367,574 352,566" fill="#4ade80" />
+<polygon points="382,534 367,542 367,574 382,566" fill="#22c55e" />
+<polygon points="367,526 382,534 367,542 352,534" fill="#bbf7d0" />
+<text x="367" y="522" class="count">3</text>
+</g>
 <polygon points="406,337 421,344 406,351 391,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="406,374 421,381 406,388 391,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="406,411 421,418 406,425 391,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="406,448 421,455 406,462 391,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="406,485 421,492 406,499 391,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="406,522 421,529 406,536 391,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<g class="tower">
-<title>Mar 21: 3 edits</title>
-<polygon points="391,534 406,542 406,574 391,566" fill="#4ade80" />
-<polygon points="421,534 406,542 406,574 421,566" fill="#22c55e" />
-<polygon points="406,526 421,534 406,542 391,534" fill="#bbf7d0" />
-<text x="406" y="522" class="count">3</text>
-</g>
+<polygon points="406,559 421,566 406,573 391,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="445,337 460,344 445,351 430,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="445,374 460,381 445,388 430,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="445,411 460,418 445,425 430,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="445,448 460,455 445,462 430,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="445,485 460,492 445,499 430,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="445,522 460,529 445,536 430,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="445,559 460,566 445,573 430,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="484,337 499,344 484,351 469,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="484,374 499,381 484,388 469,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="484,411 499,418 484,425 469,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <g class="tower">
 <title>Apr 01: 15 edits</title>
-<polygon points="469,387 484,395 484,463 469,455" fill="#059669" />
-<polygon points="499,387 484,395 484,463 499,455" fill="#047857" />
-<polygon points="484,379 499,387 484,395 469,387" fill="#34d399" />
-<text x="484" y="375" class="count">15</text>
+<polygon points="430,387 445,395 445,463 430,455" fill="#059669" />
+<polygon points="460,387 445,395 445,463 460,455" fill="#047857" />
+<polygon points="445,379 460,387 445,395 430,387" fill="#34d399" />
+<text x="445" y="375" class="count">15</text>
 </g>
 <g class="tower">
 <title>Apr 02: 10 edits</title>
-<polygon points="469,434 484,442 484,500 469,492" fill="#16a34a" />
-<polygon points="499,434 484,442 484,500 499,492" fill="#15803d" />
-<polygon points="484,426 499,434 484,442 469,434" fill="#4ade80" />
-<text x="484" y="422" class="count">10</text>
+<polygon points="430,434 445,442 445,500 430,492" fill="#16a34a" />
+<polygon points="460,434 445,442 445,500 460,492" fill="#15803d" />
+<polygon points="445,426 460,434 445,442 430,434" fill="#4ade80" />
+<text x="445" y="422" class="count">10</text>
 </g>
 <g class="tower">
 <title>Apr 03: 8 edits</title>
-<polygon points="469,481 484,489 484,537 469,529" fill="#16a34a" />
-<polygon points="499,481 484,489 484,537 499,529" fill="#15803d" />
-<polygon points="484,473 499,481 484,489 469,481" fill="#4ade80" />
-<text x="484" y="469" class="count">8</text>
+<polygon points="430,481 445,489 445,537 430,529" fill="#16a34a" />
+<polygon points="460,481 445,489 445,537 460,529" fill="#15803d" />
+<polygon points="445,473 460,481 445,489 430,481" fill="#4ade80" />
+<text x="445" y="469" class="count">8</text>
 </g>
-<polygon points="484,559 499,566 484,573 469,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="523,337 538,344 523,351 508,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="445,559 460,566 445,573 430,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="484,337 499,344 484,351 469,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <g class="tower">
 <title>Apr 06: 3 edits</title>
-<polygon points="508,349 523,357 523,389 508,381" fill="#4ade80" />
-<polygon points="538,349 523,357 523,389 538,381" fill="#22c55e" />
-<polygon points="523,341 538,349 523,357 508,349" fill="#bbf7d0" />
-<text x="523" y="337" class="count">3</text>
+<polygon points="469,349 484,357 484,389 469,381" fill="#4ade80" />
+<polygon points="499,349 484,357 484,389 499,381" fill="#22c55e" />
+<polygon points="484,341 499,349 484,357 469,349" fill="#bbf7d0" />
+<text x="484" y="337" class="count">3</text>
 </g>
-<polygon points="523,411 538,418 523,425 508,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="484,411 499,418 484,425 469,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <g class="tower">
 <title>Apr 08: 3 edits</title>
-<polygon points="508,423 523,431 523,463 508,455" fill="#4ade80" />
-<polygon points="538,423 523,431 523,463 538,455" fill="#22c55e" />
-<polygon points="523,415 538,423 523,431 508,423" fill="#bbf7d0" />
-<text x="523" y="411" class="count">3</text>
+<polygon points="469,423 484,431 484,463 469,455" fill="#4ade80" />
+<polygon points="499,423 484,431 484,463 499,455" fill="#22c55e" />
+<polygon points="484,415 499,423 484,431 469,423" fill="#bbf7d0" />
+<text x="484" y="411" class="count">3</text>
 </g>
-<polygon points="523,485 538,492 523,499 508,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="523,522 538,529 523,536 508,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="523,559 538,566 523,573 508,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="562,337 577,344 562,351 547,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="562,374 577,381 562,388 547,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="562,411 577,418 562,425 547,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="562,448 577,455 562,462 547,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="484,485 499,492 484,499 469,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="484,522 499,529 484,536 469,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="484,559 499,566 484,573 469,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="523,337 538,344 523,351 508,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="523,374 538,381 523,388 508,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="523,411 538,418 523,425 508,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="523,448 538,455 523,462 508,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <g class="tower">
 <title>Apr 16: 5 edits</title>
-<polygon points="547,452 562,460 562,500 547,492" fill="#22c55e" />
-<polygon points="577,452 562,460 562,500 577,492" fill="#16a34a" />
-<polygon points="562,444 577,452 562,460 547,452" fill="#86efac" />
-<text x="562" y="440" class="count">5</text>
+<polygon points="508,452 523,460 523,500 508,492" fill="#22c55e" />
+<polygon points="538,452 523,460 523,500 538,492" fill="#16a34a" />
+<polygon points="523,444 538,452 523,460 508,452" fill="#86efac" />
+<text x="523" y="440" class="count">5</text>
 </g>
 <g class="tower">
 <title>Apr 17: 2 edits</title>
+<polygon points="508,503 523,511 523,537 508,529" fill="#4ade80" />
+<polygon points="538,503 523,511 523,537 538,529" fill="#22c55e" />
+<polygon points="523,495 538,503 523,511 508,503" fill="#bbf7d0" />
+<text x="523" y="491" class="count">2</text>
+</g>
+<g class="tower">
+<title>Apr 18: 1 edit</title>
+<polygon points="508,546 523,554 523,574 508,566" fill="#86efac" />
+<polygon points="538,546 523,554 523,574 538,566" fill="#22c55e" />
+<polygon points="523,538 538,546 523,554 508,546" fill="#dcfce7" />
+<text x="523" y="534" class="count">1</text>
+</g>
+<g class="tower">
+<title>Apr 19: 3 edits</title>
+<polygon points="547,312 562,320 562,352 547,344" fill="#4ade80" />
+<polygon points="577,312 562,320 562,352 577,344" fill="#22c55e" />
+<polygon points="562,304 577,312 562,320 547,312" fill="#bbf7d0" />
+<text x="562" y="300" class="count">3</text>
+</g>
+<g class="tower">
+<title>Apr 20: 5 edits</title>
+<polygon points="547,341 562,349 562,389 547,381" fill="#22c55e" />
+<polygon points="577,341 562,349 562,389 577,381" fill="#16a34a" />
+<polygon points="562,333 577,341 562,349 547,341" fill="#86efac" />
+<text x="562" y="329" class="count">5</text>
+</g>
+<g class="tower">
+<title>Apr 21: 3 edits</title>
+<polygon points="547,386 562,394 562,426 547,418" fill="#4ade80" />
+<polygon points="577,386 562,394 562,426 577,418" fill="#22c55e" />
+<polygon points="562,378 577,386 562,394 547,386" fill="#bbf7d0" />
+<text x="562" y="374" class="count">3</text>
+</g>
+<g class="tower">
+<title>Apr 22: 2 edits</title>
+<polygon points="547,429 562,437 562,463 547,455" fill="#4ade80" />
+<polygon points="577,429 562,437 562,463 577,455" fill="#22c55e" />
+<polygon points="562,421 577,429 562,437 547,429" fill="#bbf7d0" />
+<text x="562" y="417" class="count">2</text>
+</g>
+<g class="tower">
+<title>Apr 23: 4 edits</title>
+<polygon points="547,460 562,468 562,500 547,492" fill="#4ade80" />
+<polygon points="577,460 562,468 562,500 577,492" fill="#22c55e" />
+<polygon points="562,452 577,460 562,468 547,460" fill="#bbf7d0" />
+<text x="562" y="448" class="count">4</text>
+</g>
+<g class="tower">
+<title>Apr 24: 2 edits</title>
 <polygon points="547,503 562,511 562,537 547,529" fill="#4ade80" />
 <polygon points="577,503 562,511 562,537 577,529" fill="#22c55e" />
 <polygon points="562,495 577,503 562,511 547,503" fill="#bbf7d0" />
 <text x="562" y="491" class="count">2</text>
 </g>
 <g class="tower">
-<title>Apr 18: 1 edit</title>
+<title>Apr 25: 1 edit</title>
 <polygon points="547,546 562,554 562,574 547,566" fill="#86efac" />
 <polygon points="577,546 562,554 562,574 577,566" fill="#22c55e" />
 <polygon points="562,538 577,546 562,554 547,546" fill="#dcfce7" />
 <text x="562" y="534" class="count">1</text>
 </g>
 <g class="tower">
-<title>Apr 19: 3 edits</title>
+<title>Apr 26: 3 edits</title>
 <polygon points="586,312 601,320 601,352 586,344" fill="#4ade80" />
 <polygon points="616,312 601,320 601,352 616,344" fill="#22c55e" />
 <polygon points="601,304 616,312 601,320 586,312" fill="#bbf7d0" />
 <text x="601" y="300" class="count">3</text>
 </g>
 <g class="tower">
-<title>Apr 20: 5 edits</title>
-<polygon points="586,341 601,349 601,389 586,381" fill="#22c55e" />
-<polygon points="616,341 601,349 601,389 616,381" fill="#16a34a" />
-<polygon points="601,333 616,341 601,349 586,341" fill="#86efac" />
-<text x="601" y="329" class="count">5</text>
+<title>Apr 27: 1 edit</title>
+<polygon points="586,361 601,369 601,389 586,381" fill="#86efac" />
+<polygon points="616,361 601,369 601,389 616,381" fill="#22c55e" />
+<polygon points="601,353 616,361 601,369 586,361" fill="#dcfce7" />
+<text x="601" y="349" class="count">1</text>
 </g>
 <g class="tower">
-<title>Apr 21: 3 edits</title>
+<title>Apr 28: 4 edits</title>
 <polygon points="586,386 601,394 601,426 586,418" fill="#4ade80" />
 <polygon points="616,386 601,394 601,426 616,418" fill="#22c55e" />
 <polygon points="601,378 616,386 601,394 586,386" fill="#bbf7d0" />
-<text x="601" y="374" class="count">3</text>
+<text x="601" y="374" class="count">4</text>
 </g>
 <g class="tower">
-<title>Apr 22: 2 edits</title>
+<title>Apr 29: 2 edits</title>
 <polygon points="586,429 601,437 601,463 586,455" fill="#4ade80" />
 <polygon points="616,429 601,437 601,463 616,455" fill="#22c55e" />
 <polygon points="601,421 616,429 601,437 586,429" fill="#bbf7d0" />
 <text x="601" y="417" class="count">2</text>
 </g>
 <g class="tower">
-<title>Apr 23: 4 edits</title>
-<polygon points="586,460 601,468 601,500 586,492" fill="#4ade80" />
-<polygon points="616,460 601,468 601,500 616,492" fill="#22c55e" />
-<polygon points="601,452 616,460 601,468 586,460" fill="#bbf7d0" />
-<text x="601" y="448" class="count">4</text>
+<title>Apr 30: 2 edits</title>
+<polygon points="586,466 601,474 601,500 586,492" fill="#4ade80" />
+<polygon points="616,466 601,474 601,500 616,492" fill="#22c55e" />
+<polygon points="601,458 616,466 601,474 586,466" fill="#bbf7d0" />
+<text x="601" y="454" class="count">2</text>
 </g>
 <g class="tower">
-<title>Apr 24: 2 edits</title>
+<title>May 01: 2 edits</title>
 <polygon points="586,503 601,511 601,537 586,529" fill="#4ade80" />
 <polygon points="616,503 601,511 601,537 616,529" fill="#22c55e" />
 <polygon points="601,495 616,503 601,511 586,503" fill="#bbf7d0" />
 <text x="601" y="491" class="count">2</text>
 </g>
 <g class="tower">
-<title>Apr 25: 1 edit</title>
+<title>May 02: 1 edit</title>
 <polygon points="586,546 601,554 601,574 586,566" fill="#86efac" />
 <polygon points="616,546 601,554 601,574 616,566" fill="#22c55e" />
 <polygon points="601,538 616,546 601,554 586,546" fill="#dcfce7" />
 <text x="601" y="534" class="count">1</text>
 </g>
 <g class="tower">
-<title>Apr 26: 3 edits</title>
-<polygon points="625,312 640,320 640,352 625,344" fill="#4ade80" />
-<polygon points="655,312 640,320 640,352 655,344" fill="#22c55e" />
-<polygon points="640,304 655,312 640,320 625,312" fill="#bbf7d0" />
-<text x="640" y="300" class="count">3</text>
+<title>May 03: 2 edits</title>
+<polygon points="625,318 640,326 640,352 625,344" fill="#4ade80" />
+<polygon points="655,318 640,326 640,352 655,344" fill="#22c55e" />
+<polygon points="640,310 655,318 640,326 625,318" fill="#bbf7d0" />
+<text x="640" y="306" class="count">2</text>
 </g>
 <g class="tower">
-<title>Apr 27: 1 edit</title>
-<polygon points="625,361 640,369 640,389 625,381" fill="#86efac" />
-<polygon points="655,361 640,369 640,389 655,381" fill="#22c55e" />
-<polygon points="640,353 655,361 640,369 625,361" fill="#dcfce7" />
-<text x="640" y="349" class="count">1</text>
+<title>May 04: 4 edits</title>
+<polygon points="625,349 640,357 640,389 625,381" fill="#4ade80" />
+<polygon points="655,349 640,357 640,389 655,381" fill="#22c55e" />
+<polygon points="640,341 655,349 640,357 625,349" fill="#bbf7d0" />
+<text x="640" y="337" class="count">4</text>
 </g>
 <g class="tower">
-<title>Apr 28: 4 edits</title>
+<title>May 05: 4 edits</title>
 <polygon points="625,386 640,394 640,426 625,418" fill="#4ade80" />
 <polygon points="655,386 640,394 640,426 655,418" fill="#22c55e" />
 <polygon points="640,378 655,386 640,394 625,386" fill="#bbf7d0" />
 <text x="640" y="374" class="count">4</text>
 </g>
 <g class="tower">
-<title>Apr 29: 2 edits</title>
-<polygon points="625,429 640,437 640,463 625,455" fill="#4ade80" />
-<polygon points="655,429 640,437 640,463 655,455" fill="#22c55e" />
-<polygon points="640,421 655,429 640,437 625,429" fill="#bbf7d0" />
-<text x="640" y="417" class="count">2</text>
-</g>
-<g class="tower">
-<title>Apr 30: 2 edits</title>
-<polygon points="625,466 640,474 640,500 625,492" fill="#4ade80" />
-<polygon points="655,466 640,474 640,500 655,492" fill="#22c55e" />
-<polygon points="640,458 655,466 640,474 625,466" fill="#bbf7d0" />
-<text x="640" y="454" class="count">2</text>
-</g>
-<g class="tower">
-<title>May 01: 2 edits</title>
-<polygon points="625,503 640,511 640,537 625,529" fill="#4ade80" />
-<polygon points="655,503 640,511 640,537 655,529" fill="#22c55e" />
-<polygon points="640,495 655,503 640,511 625,503" fill="#bbf7d0" />
-<text x="640" y="491" class="count">2</text>
-</g>
-<g class="tower">
-<title>May 02: 1 edit</title>
-<polygon points="625,546 640,554 640,574 625,566" fill="#86efac" />
-<polygon points="655,546 640,554 640,574 655,566" fill="#22c55e" />
-<polygon points="640,538 655,546 640,554 625,546" fill="#dcfce7" />
-<text x="640" y="534" class="count">1</text>
-</g>
-<g class="tower">
-<title>May 03: 2 edits</title>
-<polygon points="664,318 679,326 679,352 664,344" fill="#4ade80" />
-<polygon points="694,318 679,326 679,352 694,344" fill="#22c55e" />
-<polygon points="679,310 694,318 679,326 664,318" fill="#bbf7d0" />
-<text x="679" y="306" class="count">2</text>
-</g>
-<g class="tower">
-<title>May 04: 4 edits</title>
-<polygon points="664,349 679,357 679,389 664,381" fill="#4ade80" />
-<polygon points="694,349 679,357 679,389 694,381" fill="#22c55e" />
-<polygon points="679,341 694,349 679,357 664,349" fill="#bbf7d0" />
-<text x="679" y="337" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 05: 4 edits</title>
-<polygon points="664,386 679,394 679,426 664,418" fill="#4ade80" />
-<polygon points="694,386 679,394 679,426 694,418" fill="#22c55e" />
-<polygon points="679,378 694,386 679,394 664,386" fill="#bbf7d0" />
-<text x="679" y="374" class="count">4</text>
-</g>
-<g class="tower">
 <title>May 06: 1 edit</title>
+<polygon points="625,435 640,443 640,463 625,455" fill="#86efac" />
+<polygon points="655,435 640,443 640,463 655,455" fill="#22c55e" />
+<polygon points="640,427 655,435 640,443 625,435" fill="#dcfce7" />
+<text x="640" y="423" class="count">1</text>
+</g>
+<g class="tower">
+<title>May 07: 4 edits</title>
+<polygon points="625,460 640,468 640,500 625,492" fill="#4ade80" />
+<polygon points="655,460 640,468 640,500 655,492" fill="#22c55e" />
+<polygon points="640,452 655,460 640,468 625,460" fill="#bbf7d0" />
+<text x="640" y="448" class="count">4</text>
+</g>
+<g class="tower">
+<title>May 08: 6 edits</title>
+<polygon points="625,489 640,497 640,537 625,529" fill="#22c55e" />
+<polygon points="655,489 640,497 640,537 655,529" fill="#16a34a" />
+<polygon points="640,481 655,489 640,497 625,489" fill="#86efac" />
+<text x="640" y="477" class="count">6</text>
+</g>
+<g class="tower">
+<title>May 09: 6 edits</title>
+<polygon points="625,526 640,534 640,574 625,566" fill="#22c55e" />
+<polygon points="655,526 640,534 640,574 655,566" fill="#16a34a" />
+<polygon points="640,518 655,526 640,534 625,526" fill="#86efac" />
+<text x="640" y="514" class="count">6</text>
+</g>
+<g class="tower">
+<title>May 10: 1 edit</title>
+<polygon points="664,324 679,332 679,352 664,344" fill="#86efac" />
+<polygon points="694,324 679,332 679,352 694,344" fill="#22c55e" />
+<polygon points="679,316 694,324 679,332 664,324" fill="#dcfce7" />
+<text x="679" y="312" class="count">1</text>
+</g>
+<g class="tower">
+<title>May 11: 2 edits</title>
+<polygon points="664,355 679,363 679,389 664,381" fill="#4ade80" />
+<polygon points="694,355 679,363 679,389 694,381" fill="#22c55e" />
+<polygon points="679,347 694,355 679,363 664,355" fill="#bbf7d0" />
+<text x="679" y="343" class="count">2</text>
+</g>
+<g class="tower">
+<title>May 12: 1 edit</title>
+<polygon points="664,398 679,406 679,426 664,418" fill="#86efac" />
+<polygon points="694,398 679,406 679,426 694,418" fill="#22c55e" />
+<polygon points="679,390 694,398 679,406 664,398" fill="#dcfce7" />
+<text x="679" y="386" class="count">1</text>
+</g>
+<g class="tower">
+<title>May 13: 1 edit</title>
 <polygon points="664,435 679,443 679,463 664,455" fill="#86efac" />
 <polygon points="694,435 679,443 679,463 694,455" fill="#22c55e" />
 <polygon points="679,427 694,435 679,443 664,435" fill="#dcfce7" />
 <text x="679" y="423" class="count">1</text>
 </g>
 <g class="tower">
-<title>May 07: 4 edits</title>
-<polygon points="664,460 679,468 679,500 664,492" fill="#4ade80" />
-<polygon points="694,460 679,468 679,500 694,492" fill="#22c55e" />
-<polygon points="679,452 694,460 679,468 664,460" fill="#bbf7d0" />
-<text x="679" y="448" class="count">4</text>
+<title>May 14: 1 edit</title>
+<polygon points="664,472 679,480 679,500 664,492" fill="#86efac" />
+<polygon points="694,472 679,480 679,500 694,492" fill="#22c55e" />
+<polygon points="679,464 694,472 679,480 664,472" fill="#dcfce7" />
+<text x="679" y="460" class="count">1</text>
 </g>
 <g class="tower">
-<title>May 08: 6 edits</title>
-<polygon points="664,489 679,497 679,537 664,529" fill="#22c55e" />
-<polygon points="694,489 679,497 679,537 694,529" fill="#16a34a" />
-<polygon points="679,481 694,489 679,497 664,489" fill="#86efac" />
-<text x="679" y="477" class="count">6</text>
+<title>May 15: 4 edits</title>
+<polygon points="664,497 679,505 679,537 664,529" fill="#4ade80" />
+<polygon points="694,497 679,505 679,537 694,529" fill="#22c55e" />
+<polygon points="679,489 694,497 679,505 664,497" fill="#bbf7d0" />
+<text x="679" y="485" class="count">4</text>
 </g>
 <g class="tower">
-<title>May 09: 6 edits</title>
+<title>May 16: 5 edits</title>
 <polygon points="664,526 679,534 679,574 664,566" fill="#22c55e" />
 <polygon points="694,526 679,534 679,574 694,566" fill="#16a34a" />
 <polygon points="679,518 694,526 679,534 664,526" fill="#86efac" />
-<text x="679" y="514" class="count">6</text>
+<text x="679" y="514" class="count">5</text>
 </g>
 <g class="tower">
-<title>May 10: 1 edit</title>
-<polygon points="703,324 718,332 718,352 703,344" fill="#86efac" />
-<polygon points="733,324 718,332 718,352 733,344" fill="#22c55e" />
-<polygon points="718,316 733,324 718,332 703,324" fill="#dcfce7" />
-<text x="718" y="312" class="count">1</text>
+<title>May 17: 4 edits</title>
+<polygon points="703,312 718,320 718,352 703,344" fill="#4ade80" />
+<polygon points="733,312 718,320 718,352 733,344" fill="#22c55e" />
+<polygon points="718,304 733,312 718,320 703,312" fill="#bbf7d0" />
+<text x="718" y="300" class="count">4</text>
 </g>
 <g class="tower">
-<title>May 11: 2 edits</title>
-<polygon points="703,355 718,363 718,389 703,381" fill="#4ade80" />
-<polygon points="733,355 718,363 718,389 733,381" fill="#22c55e" />
-<polygon points="718,347 733,355 718,363 703,355" fill="#bbf7d0" />
-<text x="718" y="343" class="count">2</text>
+<title>May 18: 4 edits</title>
+<polygon points="703,349 718,357 718,389 703,381" fill="#4ade80" />
+<polygon points="733,349 718,357 718,389 733,381" fill="#22c55e" />
+<polygon points="718,341 733,349 718,357 703,349" fill="#bbf7d0" />
+<text x="718" y="337" class="count">4</text>
 </g>
 <g class="tower">
-<title>May 12: 1 edit</title>
-<polygon points="703,398 718,406 718,426 703,418" fill="#86efac" />
-<polygon points="733,398 718,406 718,426 733,418" fill="#22c55e" />
-<polygon points="718,390 733,398 718,406 703,398" fill="#dcfce7" />
-<text x="718" y="386" class="count">1</text>
+<title>May 19: 4 edits</title>
+<polygon points="703,386 718,394 718,426 703,418" fill="#4ade80" />
+<polygon points="733,386 718,394 718,426 733,418" fill="#22c55e" />
+<polygon points="718,378 733,386 718,394 703,386" fill="#bbf7d0" />
+<text x="718" y="374" class="count">4</text>
 </g>
 <g class="tower">
-<title>May 13: 1 edit</title>
-<polygon points="703,435 718,443 718,463 703,455" fill="#86efac" />
-<polygon points="733,435 718,443 718,463 733,455" fill="#22c55e" />
-<polygon points="718,427 733,435 718,443 703,435" fill="#dcfce7" />
-<text x="718" y="423" class="count">1</text>
+<title>May 20: 4 edits</title>
+<polygon points="703,423 718,431 718,463 703,455" fill="#4ade80" />
+<polygon points="733,423 718,431 718,463 733,455" fill="#22c55e" />
+<polygon points="718,415 733,423 718,431 703,423" fill="#bbf7d0" />
+<text x="718" y="411" class="count">4</text>
 </g>
 <g class="tower">
-<title>May 14: 1 edit</title>
+<title>May 21: 1 edit</title>
 <polygon points="703,472 718,480 718,500 703,492" fill="#86efac" />
 <polygon points="733,472 718,480 718,500 733,492" fill="#22c55e" />
 <polygon points="718,464 733,472 718,480 703,472" fill="#dcfce7" />
 <text x="718" y="460" class="count">1</text>
 </g>
 <g class="tower">
-<title>May 15: 4 edits</title>
-<polygon points="703,497 718,505 718,537 703,529" fill="#4ade80" />
-<polygon points="733,497 718,505 718,537 733,529" fill="#22c55e" />
-<polygon points="718,489 733,497 718,505 703,497" fill="#bbf7d0" />
-<text x="718" y="485" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 16: 5 edits</title>
-<polygon points="703,526 718,534 718,574 703,566" fill="#22c55e" />
-<polygon points="733,526 718,534 718,574 733,566" fill="#16a34a" />
-<polygon points="718,518 733,526 718,534 703,526" fill="#86efac" />
-<text x="718" y="514" class="count">5</text>
-</g>
-<g class="tower">
-<title>May 17: 4 edits</title>
-<polygon points="742,312 757,320 757,352 742,344" fill="#4ade80" />
-<polygon points="772,312 757,320 757,352 772,344" fill="#22c55e" />
-<polygon points="757,304 772,312 757,320 742,312" fill="#bbf7d0" />
-<text x="757" y="300" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 18: 4 edits</title>
-<polygon points="742,349 757,357 757,389 742,381" fill="#4ade80" />
-<polygon points="772,349 757,357 757,389 772,381" fill="#22c55e" />
-<polygon points="757,341 772,349 757,357 742,349" fill="#bbf7d0" />
-<text x="757" y="337" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 19: 4 edits</title>
-<polygon points="742,386 757,394 757,426 742,418" fill="#4ade80" />
-<polygon points="772,386 757,394 757,426 772,418" fill="#22c55e" />
-<polygon points="757,378 772,386 757,394 742,386" fill="#bbf7d0" />
-<text x="757" y="374" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 20: 4 edits</title>
-<polygon points="742,423 757,431 757,463 742,455" fill="#4ade80" />
-<polygon points="772,423 757,431 757,463 772,455" fill="#22c55e" />
-<polygon points="757,415 772,423 757,431 742,423" fill="#bbf7d0" />
-<text x="757" y="411" class="count">4</text>
-</g>
-<g class="tower">
-<title>May 21: 1 edit</title>
-<polygon points="742,472 757,480 757,500 742,492" fill="#86efac" />
-<polygon points="772,472 757,480 757,500 772,492" fill="#22c55e" />
-<polygon points="757,464 772,472 757,480 742,472" fill="#dcfce7" />
-<text x="757" y="460" class="count">1</text>
-</g>
-<g class="tower">
 <title>May 22: 1 edit</title>
-<polygon points="742,509 757,517 757,537 742,529" fill="#86efac" />
-<polygon points="772,509 757,517 757,537 772,529" fill="#22c55e" />
-<polygon points="757,501 772,509 757,517 742,509" fill="#dcfce7" />
-<text x="757" y="497" class="count">1</text>
+<polygon points="703,509 718,517 718,537 703,529" fill="#86efac" />
+<polygon points="733,509 718,517 718,537 733,529" fill="#22c55e" />
+<polygon points="718,501 733,509 718,517 703,509" fill="#dcfce7" />
+<text x="718" y="497" class="count">1</text>
 </g>
 <g class="tower">
 <title>May 23: 3 edits</title>
-<polygon points="742,534 757,542 757,574 742,566" fill="#4ade80" />
-<polygon points="772,534 757,542 757,574 772,566" fill="#22c55e" />
-<polygon points="757,526 772,534 757,542 742,534" fill="#bbf7d0" />
-<text x="757" y="522" class="count">3</text>
+<polygon points="703,534 718,542 718,574 703,566" fill="#4ade80" />
+<polygon points="733,534 718,542 718,574 733,566" fill="#22c55e" />
+<polygon points="718,526 733,534 718,542 703,534" fill="#bbf7d0" />
+<text x="718" y="522" class="count">3</text>
 </g>
 <g class="tower">
 <title>May 24: 1 edit</title>
-<polygon points="781,324 796,332 796,352 781,344" fill="#86efac" />
-<polygon points="811,324 796,332 796,352 811,344" fill="#22c55e" />
-<polygon points="796,316 811,324 796,332 781,324" fill="#dcfce7" />
-<text x="796" y="312" class="count">1</text>
+<polygon points="742,324 757,332 757,352 742,344" fill="#86efac" />
+<polygon points="772,324 757,332 757,352 772,344" fill="#22c55e" />
+<polygon points="757,316 772,324 757,332 742,324" fill="#dcfce7" />
+<text x="757" y="312" class="count">1</text>
 </g>
 <g class="tower">
 <title>May 25: 1 edit</title>
-<polygon points="781,361 796,369 796,389 781,381" fill="#86efac" />
-<polygon points="811,361 796,369 796,389 811,381" fill="#22c55e" />
-<polygon points="796,353 811,361 796,369 781,361" fill="#dcfce7" />
-<text x="796" y="349" class="count">1</text>
+<polygon points="742,361 757,369 757,389 742,381" fill="#86efac" />
+<polygon points="772,361 757,369 757,389 772,381" fill="#22c55e" />
+<polygon points="757,353 772,361 757,369 742,361" fill="#dcfce7" />
+<text x="757" y="349" class="count">1</text>
 </g>
 <g class="tower">
 <title>May 26: 3 edits</title>
-<polygon points="781,386 796,394 796,426 781,418" fill="#4ade80" />
-<polygon points="811,386 796,394 796,426 811,418" fill="#22c55e" />
-<polygon points="796,378 811,386 796,394 781,386" fill="#bbf7d0" />
-<text x="796" y="374" class="count">3</text>
+<polygon points="742,386 757,394 757,426 742,418" fill="#4ade80" />
+<polygon points="772,386 757,394 757,426 772,418" fill="#22c55e" />
+<polygon points="757,378 772,386 757,394 742,386" fill="#bbf7d0" />
+<text x="757" y="374" class="count">3</text>
 </g>
 <g class="tower">
 <title>May 27: 2 edits</title>
-<polygon points="781,429 796,437 796,463 781,455" fill="#4ade80" />
-<polygon points="811,429 796,437 796,463 811,455" fill="#22c55e" />
-<polygon points="796,421 811,429 796,437 781,429" fill="#bbf7d0" />
-<text x="796" y="417" class="count">2</text>
+<polygon points="742,429 757,437 757,463 742,455" fill="#4ade80" />
+<polygon points="772,429 757,437 757,463 772,455" fill="#22c55e" />
+<polygon points="757,421 772,429 757,437 742,429" fill="#bbf7d0" />
+<text x="757" y="417" class="count">2</text>
 </g>
 <g class="tower">
 <title>May 28: 4 edits</title>
-<polygon points="781,460 796,468 796,500 781,492" fill="#4ade80" />
-<polygon points="811,460 796,468 796,500 811,492" fill="#22c55e" />
-<polygon points="796,452 811,460 796,468 781,460" fill="#bbf7d0" />
-<text x="796" y="448" class="count">4</text>
+<polygon points="742,460 757,468 757,500 742,492" fill="#4ade80" />
+<polygon points="772,460 757,468 757,500 772,492" fill="#22c55e" />
+<polygon points="757,452 772,460 757,468 742,460" fill="#bbf7d0" />
+<text x="757" y="448" class="count">4</text>
 </g>
 <g class="tower">
 <title>May 29: 2 edits</title>
-<polygon points="781,503 796,511 796,537 781,529" fill="#4ade80" />
-<polygon points="811,503 796,511 796,537 811,529" fill="#22c55e" />
-<polygon points="796,495 811,503 796,511 781,503" fill="#bbf7d0" />
-<text x="796" y="491" class="count">2</text>
+<polygon points="742,503 757,511 757,537 742,529" fill="#4ade80" />
+<polygon points="772,503 757,511 757,537 772,529" fill="#22c55e" />
+<polygon points="757,495 772,503 757,511 742,503" fill="#bbf7d0" />
+<text x="757" y="491" class="count">2</text>
 </g>
 <g class="tower">
 <title>May 30: 1 edit</title>
-<polygon points="781,546 796,554 796,574 781,566" fill="#86efac" />
-<polygon points="811,546 796,554 796,574 811,566" fill="#22c55e" />
-<polygon points="796,538 811,546 796,554 781,546" fill="#dcfce7" />
-<text x="796" y="534" class="count">1</text>
+<polygon points="742,546 757,554 757,574 742,566" fill="#86efac" />
+<polygon points="772,546 757,554 757,574 772,566" fill="#22c55e" />
+<polygon points="757,538 772,546 757,554 742,546" fill="#dcfce7" />
+<text x="757" y="534" class="count">1</text>
 </g>
 <g class="tower">
 <title>May 31: 2 edits</title>
-<polygon points="820,318 835,326 835,352 820,344" fill="#4ade80" />
-<polygon points="850,318 835,326 835,352 850,344" fill="#22c55e" />
-<polygon points="835,310 850,318 835,326 820,318" fill="#bbf7d0" />
-<text x="835" y="306" class="count">2</text>
+<polygon points="781,318 796,326 796,352 781,344" fill="#4ade80" />
+<polygon points="811,318 796,326 796,352 811,344" fill="#22c55e" />
+<polygon points="796,310 811,318 796,326 781,318" fill="#bbf7d0" />
+<text x="796" y="306" class="count">2</text>
 </g>
 <g class="tower">
 <title>Jun 01: 3 edits</title>
-<polygon points="820,349 835,357 835,389 820,381" fill="#4ade80" />
-<polygon points="850,349 835,357 835,389 850,381" fill="#22c55e" />
-<polygon points="835,341 850,349 835,357 820,349" fill="#bbf7d0" />
-<text x="835" y="337" class="count">3</text>
+<polygon points="781,349 796,357 796,389 781,381" fill="#4ade80" />
+<polygon points="811,349 796,357 796,389 811,381" fill="#22c55e" />
+<polygon points="796,341 811,349 796,357 781,349" fill="#bbf7d0" />
+<text x="796" y="337" class="count">3</text>
 </g>
 <g class="tower">
 <title>Jun 02: 2 edits</title>
-<polygon points="820,392 835,400 835,426 820,418" fill="#4ade80" />
-<polygon points="850,392 835,400 835,426 850,418" fill="#22c55e" />
-<polygon points="835,384 850,392 835,400 820,392" fill="#bbf7d0" />
-<text x="835" y="380" class="count">2</text>
+<polygon points="781,392 796,400 796,426 781,418" fill="#4ade80" />
+<polygon points="811,392 796,400 796,426 811,418" fill="#22c55e" />
+<polygon points="796,384 811,392 796,400 781,392" fill="#bbf7d0" />
+<text x="796" y="380" class="count">2</text>
 </g>
 <g class="tower">
 <title>Jun 03: 4 edits</title>
-<polygon points="820,423 835,431 835,463 820,455" fill="#4ade80" />
-<polygon points="850,423 835,431 835,463 850,455" fill="#22c55e" />
-<polygon points="835,415 850,423 835,431 820,423" fill="#bbf7d0" />
-<text x="835" y="411" class="count">4</text>
+<polygon points="781,423 796,431 796,463 781,455" fill="#4ade80" />
+<polygon points="811,423 796,431 796,463 811,455" fill="#22c55e" />
+<polygon points="796,415 811,423 796,431 781,423" fill="#bbf7d0" />
+<text x="796" y="411" class="count">4</text>
 </g>
 <g class="tower">
 <title>Jun 04: 2 edits</title>
-<polygon points="820,466 835,474 835,500 820,492" fill="#4ade80" />
-<polygon points="850,466 835,474 835,500 850,492" fill="#22c55e" />
-<polygon points="835,458 850,466 835,474 820,466" fill="#bbf7d0" />
-<text x="835" y="454" class="count">2</text>
+<polygon points="781,466 796,474 796,500 781,492" fill="#4ade80" />
+<polygon points="811,466 796,474 796,500 811,492" fill="#22c55e" />
+<polygon points="796,458 811,466 796,474 781,466" fill="#bbf7d0" />
+<text x="796" y="454" class="count">2</text>
 </g>
 <g class="tower">
 <title>Jun 05: 12 edits</title>
-<polygon points="820,471 835,479 835,537 820,529" fill="#16a34a" />
-<polygon points="850,471 835,479 835,537 850,529" fill="#15803d" />
-<polygon points="835,463 850,471 835,479 820,471" fill="#4ade80" />
-<text x="835" y="459" class="count">12</text>
+<polygon points="781,471 796,479 796,537 781,529" fill="#16a34a" />
+<polygon points="811,471 796,479 796,537 811,529" fill="#15803d" />
+<polygon points="796,463 811,471 796,479 781,471" fill="#4ade80" />
+<text x="796" y="459" class="count">12</text>
 </g>
 <g class="tower">
 <title>Jun 06: 10 edits</title>
-<polygon points="820,508 835,516 835,574 820,566" fill="#16a34a" />
-<polygon points="850,508 835,516 835,574 850,566" fill="#15803d" />
-<polygon points="835,500 850,508 835,516 820,508" fill="#4ade80" />
-<text x="835" y="496" class="count">10</text>
+<polygon points="781,508 796,516 796,574 781,566" fill="#16a34a" />
+<polygon points="811,508 796,516 796,574 811,566" fill="#15803d" />
+<polygon points="796,500 811,508 796,516 781,508" fill="#4ade80" />
+<text x="796" y="496" class="count">10</text>
 </g>
 <g class="tower">
 <title>Jun 07: 10 edits</title>
-<polygon points="859,286 874,294 874,352 859,344" fill="#16a34a" />
-<polygon points="889,286 874,294 874,352 889,344" fill="#15803d" />
-<polygon points="874,278 889,286 874,294 859,286" fill="#4ade80" />
-<text x="874" y="274" class="count">10</text>
+<polygon points="820,286 835,294 835,352 820,344" fill="#16a34a" />
+<polygon points="850,286 835,294 835,352 850,344" fill="#15803d" />
+<polygon points="835,278 850,286 835,294 820,286" fill="#4ade80" />
+<text x="835" y="274" class="count">10</text>
 </g>
 <g class="tower">
 <title>Jun 08: 2 edits</title>
-<polygon points="859,355 874,363 874,389 859,381" fill="#4ade80" />
-<polygon points="889,355 874,363 874,389 889,381" fill="#22c55e" />
-<polygon points="874,347 889,355 874,363 859,355" fill="#bbf7d0" />
-<text x="874" y="343" class="count">2</text>
+<polygon points="820,355 835,363 835,389 820,381" fill="#4ade80" />
+<polygon points="850,355 835,363 835,389 850,381" fill="#22c55e" />
+<polygon points="835,347 850,355 835,363 820,355" fill="#bbf7d0" />
+<text x="835" y="343" class="count">2</text>
 </g>
 <g class="tower">
 <title>Jun 09: 8 edits</title>
-<polygon points="859,370 874,378 874,426 859,418" fill="#16a34a" />
-<polygon points="889,370 874,378 874,426 889,418" fill="#15803d" />
-<polygon points="874,362 889,370 874,378 859,370" fill="#4ade80" />
-<text x="874" y="358" class="count">8</text>
+<polygon points="820,370 835,378 835,426 820,418" fill="#16a34a" />
+<polygon points="850,370 835,378 835,426 850,418" fill="#15803d" />
+<polygon points="835,362 850,370 835,378 820,370" fill="#4ade80" />
+<text x="835" y="358" class="count">8</text>
 </g>
 <g class="tower">
 <title>Jun 10: 8 edits</title>
-<polygon points="859,407 874,415 874,463 859,455" fill="#16a34a" />
-<polygon points="889,407 874,415 874,463 889,455" fill="#15803d" />
-<polygon points="874,399 889,407 874,415 859,407" fill="#4ade80" />
-<text x="874" y="395" class="count">8</text>
+<polygon points="820,407 835,415 835,463 820,455" fill="#16a34a" />
+<polygon points="850,407 835,415 835,463 850,455" fill="#15803d" />
+<polygon points="835,399 850,407 835,415 820,407" fill="#4ade80" />
+<text x="835" y="395" class="count">8</text>
 </g>
 <g class="tower">
 <title>Jun 11: 1 edit</title>
-<polygon points="859,472 874,480 874,500 859,492" fill="#86efac" />
-<polygon points="889,472 874,480 874,500 889,492" fill="#22c55e" />
-<polygon points="874,464 889,472 874,480 859,472" fill="#dcfce7" />
-<text x="874" y="460" class="count">1</text>
+<polygon points="820,472 835,480 835,500 820,492" fill="#86efac" />
+<polygon points="850,472 835,480 835,500 850,492" fill="#22c55e" />
+<polygon points="835,464 850,472 835,480 820,472" fill="#dcfce7" />
+<text x="835" y="460" class="count">1</text>
 </g>
 <g class="tower">
 <title>Jun 12: 2 edits</title>
-<polygon points="859,503 874,511 874,537 859,529" fill="#4ade80" />
-<polygon points="889,503 874,511 874,537 889,529" fill="#22c55e" />
-<polygon points="874,495 889,503 874,511 859,503" fill="#bbf7d0" />
-<text x="874" y="491" class="count">2</text>
+<polygon points="820,503 835,511 835,537 820,529" fill="#4ade80" />
+<polygon points="850,503 835,511 835,537 850,529" fill="#22c55e" />
+<polygon points="835,495 850,503 835,511 820,503" fill="#bbf7d0" />
+<text x="835" y="491" class="count">2</text>
 </g>
 <g class="tower">
 <title>Jun 13: 1 edit</title>
-<polygon points="859,546 874,554 874,574 859,566" fill="#86efac" />
-<polygon points="889,546 874,554 874,574 889,566" fill="#22c55e" />
-<polygon points="874,538 889,546 874,554 859,546" fill="#dcfce7" />
-<text x="874" y="534" class="count">1</text>
+<polygon points="820,546 835,554 835,574 820,566" fill="#86efac" />
+<polygon points="850,546 835,554 835,574 850,566" fill="#22c55e" />
+<polygon points="835,538 850,546 835,554 820,546" fill="#dcfce7" />
+<text x="835" y="534" class="count">1</text>
 </g>
 <g class="tower">
 <title>Jun 14: 1 edit</title>
-<polygon points="898,324 913,332 913,352 898,344" fill="#86efac" />
-<polygon points="928,324 913,332 913,352 928,344" fill="#22c55e" />
-<polygon points="913,316 928,324 913,332 898,324" fill="#dcfce7" />
-<text x="913" y="312" class="count">1</text>
+<polygon points="859,324 874,332 874,352 859,344" fill="#86efac" />
+<polygon points="889,324 874,332 874,352 889,344" fill="#22c55e" />
+<polygon points="874,316 889,324 874,332 859,324" fill="#dcfce7" />
+<text x="874" y="312" class="count">1</text>
 </g>
 <g class="tower">
 <title>Jun 15: 1 edit</title>
-<polygon points="898,361 913,369 913,389 898,381" fill="#86efac" />
-<polygon points="928,361 913,369 913,389 928,381" fill="#22c55e" />
-<polygon points="913,353 928,361 913,369 898,361" fill="#dcfce7" />
-<text x="913" y="349" class="count">1</text>
+<polygon points="859,361 874,369 874,389 859,381" fill="#86efac" />
+<polygon points="889,361 874,369 874,389 889,381" fill="#22c55e" />
+<polygon points="874,353 889,361 874,369 859,361" fill="#dcfce7" />
+<text x="874" y="349" class="count">1</text>
 </g>
 <g class="tower">
 <title>Jun 16: 2 edits</title>
+<polygon points="859,392 874,400 874,426 859,418" fill="#4ade80" />
+<polygon points="889,392 874,400 874,426 889,418" fill="#22c55e" />
+<polygon points="874,384 889,392 874,400 859,392" fill="#bbf7d0" />
+<text x="874" y="380" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jun 17: 1 edit</title>
+<polygon points="859,435 874,443 874,463 859,455" fill="#86efac" />
+<polygon points="889,435 874,443 874,463 889,455" fill="#22c55e" />
+<polygon points="874,427 889,435 874,443 859,435" fill="#dcfce7" />
+<text x="874" y="423" class="count">1</text>
+</g>
+<g class="tower">
+<title>Jun 18: 3 edits</title>
+<polygon points="859,460 874,468 874,500 859,492" fill="#4ade80" />
+<polygon points="889,460 874,468 874,500 889,492" fill="#22c55e" />
+<polygon points="874,452 889,460 874,468 859,460" fill="#bbf7d0" />
+<text x="874" y="448" class="count">3</text>
+</g>
+<g class="tower">
+<title>Jun 19: 4 edits</title>
+<polygon points="859,497 874,505 874,537 859,529" fill="#4ade80" />
+<polygon points="889,497 874,505 874,537 889,529" fill="#22c55e" />
+<polygon points="874,489 889,497 874,505 859,497" fill="#bbf7d0" />
+<text x="874" y="485" class="count">4</text>
+</g>
+<g class="tower">
+<title>Jun 20: 4 edits</title>
+<polygon points="859,534 874,542 874,574 859,566" fill="#4ade80" />
+<polygon points="889,534 874,542 874,574 889,566" fill="#22c55e" />
+<polygon points="874,526 889,534 874,542 859,534" fill="#bbf7d0" />
+<text x="874" y="522" class="count">4</text>
+</g>
+<g class="tower">
+<title>Jun 21: 2 edits</title>
+<polygon points="898,318 913,326 913,352 898,344" fill="#4ade80" />
+<polygon points="928,318 913,326 913,352 928,344" fill="#22c55e" />
+<polygon points="913,310 928,318 913,326 898,318" fill="#bbf7d0" />
+<text x="913" y="306" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jun 22: 2 edits</title>
+<polygon points="898,355 913,363 913,389 898,381" fill="#4ade80" />
+<polygon points="928,355 913,363 913,389 928,381" fill="#22c55e" />
+<polygon points="913,347 928,355 913,363 898,355" fill="#bbf7d0" />
+<text x="913" y="343" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jun 23: 2 edits</title>
 <polygon points="898,392 913,400 913,426 898,418" fill="#4ade80" />
 <polygon points="928,392 913,400 913,426 928,418" fill="#22c55e" />
 <polygon points="913,384 928,392 913,400 898,392" fill="#bbf7d0" />
 <text x="913" y="380" class="count">2</text>
 </g>
 <g class="tower">
-<title>Jun 17: 1 edit</title>
+<title>Jun 24: 1 edit</title>
 <polygon points="898,435 913,443 913,463 898,455" fill="#86efac" />
 <polygon points="928,435 913,443 913,463 928,455" fill="#22c55e" />
 <polygon points="913,427 928,435 913,443 898,435" fill="#dcfce7" />
 <text x="913" y="423" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jun 18: 3 edits</title>
-<polygon points="898,460 913,468 913,500 898,492" fill="#4ade80" />
-<polygon points="928,460 913,468 913,500 928,492" fill="#22c55e" />
-<polygon points="913,452 928,460 913,468 898,460" fill="#bbf7d0" />
-<text x="913" y="448" class="count">3</text>
+<title>Jun 25: 8 edits</title>
+<polygon points="898,444 913,452 913,500 898,492" fill="#16a34a" />
+<polygon points="928,444 913,452 913,500 928,492" fill="#15803d" />
+<polygon points="913,436 928,444 913,452 898,444" fill="#4ade80" />
+<text x="913" y="432" class="count">8</text>
 </g>
 <g class="tower">
-<title>Jun 19: 4 edits</title>
-<polygon points="898,497 913,505 913,537 898,529" fill="#4ade80" />
-<polygon points="928,497 913,505 913,537 928,529" fill="#22c55e" />
-<polygon points="913,489 928,497 913,505 898,497" fill="#bbf7d0" />
-<text x="913" y="485" class="count">4</text>
+<title>Jun 26: 8 edits</title>
+<polygon points="898,481 913,489 913,537 898,529" fill="#16a34a" />
+<polygon points="928,481 913,489 913,537 928,529" fill="#15803d" />
+<polygon points="913,473 928,481 913,489 898,481" fill="#4ade80" />
+<text x="913" y="469" class="count">8</text>
 </g>
 <g class="tower">
-<title>Jun 20: 4 edits</title>
-<polygon points="898,534 913,542 913,574 898,566" fill="#4ade80" />
-<polygon points="928,534 913,542 913,574 928,566" fill="#22c55e" />
-<polygon points="913,526 928,534 913,542 898,534" fill="#bbf7d0" />
-<text x="913" y="522" class="count">4</text>
+<title>Jun 27: 21 edits</title>
+<polygon points="898,488 913,496 913,574 898,566" fill="#059669" />
+<polygon points="928,488 913,496 913,574 928,566" fill="#047857" />
+<polygon points="913,480 928,488 913,496 898,488" fill="#34d399" />
+<text x="913" y="476" class="count">21</text>
 </g>
 <g class="tower">
-<title>Jun 21: 2 edits</title>
-<polygon points="937,318 952,326 952,352 937,344" fill="#4ade80" />
-<polygon points="967,318 952,326 952,352 967,344" fill="#22c55e" />
-<polygon points="952,310 967,318 952,326 937,318" fill="#bbf7d0" />
-<text x="952" y="306" class="count">2</text>
+<title>Jun 28: 5 edits</title>
+<polygon points="937,304 952,312 952,352 937,344" fill="#22c55e" />
+<polygon points="967,304 952,312 952,352 967,344" fill="#16a34a" />
+<polygon points="952,296 967,304 952,312 937,304" fill="#86efac" />
+<text x="952" y="292" class="count">5</text>
 </g>
 <g class="tower">
-<title>Jun 22: 2 edits</title>
-<polygon points="937,355 952,363 952,389 937,381" fill="#4ade80" />
-<polygon points="967,355 952,363 952,389 967,381" fill="#22c55e" />
-<polygon points="952,347 967,355 952,363 937,355" fill="#bbf7d0" />
-<text x="952" y="343" class="count">2</text>
+<title>Jun 29: 1 edit</title>
+<polygon points="937,361 952,369 952,389 937,381" fill="#86efac" />
+<polygon points="967,361 952,369 952,389 967,381" fill="#22c55e" />
+<polygon points="952,353 967,361 952,369 937,361" fill="#dcfce7" />
+<text x="952" y="349" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jun 23: 2 edits</title>
-<polygon points="937,392 952,400 952,426 937,418" fill="#4ade80" />
-<polygon points="967,392 952,400 952,426 967,418" fill="#22c55e" />
-<polygon points="952,384 967,392 952,400 937,392" fill="#bbf7d0" />
-<text x="952" y="380" class="count">2</text>
+<title>Jun 30: 6 edits</title>
+<polygon points="937,378 952,386 952,426 937,418" fill="#22c55e" />
+<polygon points="967,378 952,386 952,426 967,418" fill="#16a34a" />
+<polygon points="952,370 967,378 952,386 937,378" fill="#86efac" />
+<text x="952" y="366" class="count">6</text>
 </g>
 <g class="tower">
-<title>Jun 24: 1 edit</title>
+<title>Jul 01: 1 edit</title>
 <polygon points="937,435 952,443 952,463 937,455" fill="#86efac" />
 <polygon points="967,435 952,443 952,463 967,455" fill="#22c55e" />
 <polygon points="952,427 967,435 952,443 937,435" fill="#dcfce7" />
 <text x="952" y="423" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jun 25: 8 edits</title>
-<polygon points="937,444 952,452 952,500 937,492" fill="#16a34a" />
-<polygon points="967,444 952,452 952,500 967,492" fill="#15803d" />
-<polygon points="952,436 967,444 952,452 937,444" fill="#4ade80" />
-<text x="952" y="432" class="count">8</text>
+<title>Jul 02: 3 edits</title>
+<polygon points="937,460 952,468 952,500 937,492" fill="#4ade80" />
+<polygon points="967,460 952,468 952,500 967,492" fill="#22c55e" />
+<polygon points="952,452 967,460 952,468 937,460" fill="#bbf7d0" />
+<text x="952" y="448" class="count">3</text>
 </g>
 <g class="tower">
-<title>Jun 26: 8 edits</title>
-<polygon points="937,481 952,489 952,537 937,529" fill="#16a34a" />
-<polygon points="967,481 952,489 952,537 967,529" fill="#15803d" />
-<polygon points="952,473 967,481 952,489 937,481" fill="#4ade80" />
-<text x="952" y="469" class="count">8</text>
+<title>Jul 03: 2 edits</title>
+<polygon points="937,503 952,511 952,537 937,529" fill="#4ade80" />
+<polygon points="967,503 952,511 952,537 967,529" fill="#22c55e" />
+<polygon points="952,495 967,503 952,511 937,503" fill="#bbf7d0" />
+<text x="952" y="491" class="count">2</text>
 </g>
 <g class="tower">
-<title>Jun 27: 21 edits</title>
+<title>Jul 04: 22 edits</title>
 <polygon points="937,488 952,496 952,574 937,566" fill="#059669" />
 <polygon points="967,488 952,496 952,574 967,566" fill="#047857" />
 <polygon points="952,480 967,488 952,496 937,488" fill="#34d399" />
-<text x="952" y="476" class="count">21</text>
+<text x="952" y="476" class="count">22</text>
 </g>
 <g class="tower">
-<title>Jun 28: 5 edits</title>
-<polygon points="976,304 991,312 991,352 976,344" fill="#22c55e" />
-<polygon points="1006,304 991,312 991,352 1006,344" fill="#16a34a" />
-<polygon points="991,296 1006,304 991,312 976,304" fill="#86efac" />
-<text x="991" y="292" class="count">5</text>
+<title>Jul 05: 3 edits</title>
+<polygon points="976,312 991,320 991,352 976,344" fill="#4ade80" />
+<polygon points="1006,312 991,320 991,352 1006,344" fill="#22c55e" />
+<polygon points="991,304 1006,312 991,320 976,312" fill="#bbf7d0" />
+<text x="991" y="300" class="count">3</text>
 </g>
 <g class="tower">
-<title>Jun 29: 1 edit</title>
+<title>Jul 06: 1 edit</title>
 <polygon points="976,361 991,369 991,389 976,381" fill="#86efac" />
 <polygon points="1006,361 991,369 991,389 1006,381" fill="#22c55e" />
 <polygon points="991,353 1006,361 991,369 976,361" fill="#dcfce7" />
 <text x="991" y="349" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jun 30: 6 edits</title>
-<polygon points="976,378 991,386 991,426 976,418" fill="#22c55e" />
-<polygon points="1006,378 991,386 991,426 1006,418" fill="#16a34a" />
-<polygon points="991,370 1006,378 991,386 976,378" fill="#86efac" />
-<text x="991" y="366" class="count">6</text>
-</g>
-<g class="tower">
-<title>Jul 01: 1 edit</title>
-<polygon points="976,435 991,443 991,463 976,455" fill="#86efac" />
-<polygon points="1006,435 991,443 991,463 1006,455" fill="#22c55e" />
-<polygon points="991,427 1006,435 991,443 976,435" fill="#dcfce7" />
-<text x="991" y="423" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 02: 3 edits</title>
-<polygon points="976,460 991,468 991,500 976,492" fill="#4ade80" />
-<polygon points="1006,460 991,468 991,500 1006,492" fill="#22c55e" />
-<polygon points="991,452 1006,460 991,468 976,460" fill="#bbf7d0" />
-<text x="991" y="448" class="count">3</text>
-</g>
-<g class="tower">
-<title>Jul 03: 2 edits</title>
-<polygon points="976,503 991,511 991,537 976,529" fill="#4ade80" />
-<polygon points="1006,503 991,511 991,537 1006,529" fill="#22c55e" />
-<polygon points="991,495 1006,503 991,511 976,503" fill="#bbf7d0" />
-<text x="991" y="491" class="count">2</text>
-</g>
-<g class="tower">
-<title>Jul 04: 22 edits</title>
-<polygon points="976,488 991,496 991,574 976,566" fill="#059669" />
-<polygon points="1006,488 991,496 991,574 1006,566" fill="#047857" />
-<polygon points="991,480 1006,488 991,496 976,488" fill="#34d399" />
-<text x="991" y="476" class="count">22</text>
-</g>
-<g class="tower">
-<title>Jul 05: 3 edits</title>
-<polygon points="1015,312 1030,320 1030,352 1015,344" fill="#4ade80" />
-<polygon points="1045,312 1030,320 1030,352 1045,344" fill="#22c55e" />
-<polygon points="1030,304 1045,312 1030,320 1015,312" fill="#bbf7d0" />
-<text x="1030" y="300" class="count">3</text>
-</g>
-<g class="tower">
-<title>Jul 06: 1 edit</title>
-<polygon points="1015,361 1030,369 1030,389 1015,381" fill="#86efac" />
-<polygon points="1045,361 1030,369 1030,389 1045,381" fill="#22c55e" />
-<polygon points="1030,353 1045,361 1030,369 1015,361" fill="#dcfce7" />
-<text x="1030" y="349" class="count">1</text>
-</g>
-<g class="tower">
 <title>Jul 07: 3 edits</title>
-<polygon points="1015,386 1030,394 1030,426 1015,418" fill="#4ade80" />
-<polygon points="1045,386 1030,394 1030,426 1045,418" fill="#22c55e" />
-<polygon points="1030,378 1045,386 1030,394 1015,386" fill="#bbf7d0" />
-<text x="1030" y="374" class="count">3</text>
+<polygon points="976,386 991,394 991,426 976,418" fill="#4ade80" />
+<polygon points="1006,386 991,394 991,426 1006,418" fill="#22c55e" />
+<polygon points="991,378 1006,386 991,394 976,386" fill="#bbf7d0" />
+<text x="991" y="374" class="count">3</text>
 </g>
 <g class="tower">
 <title>Jul 08: 4 edits</title>
-<polygon points="1015,423 1030,431 1030,463 1015,455" fill="#4ade80" />
-<polygon points="1045,423 1030,431 1030,463 1045,455" fill="#22c55e" />
-<polygon points="1030,415 1045,423 1030,431 1015,423" fill="#bbf7d0" />
-<text x="1030" y="411" class="count">4</text>
+<polygon points="976,423 991,431 991,463 976,455" fill="#4ade80" />
+<polygon points="1006,423 991,431 991,463 1006,455" fill="#22c55e" />
+<polygon points="991,415 1006,423 991,431 976,423" fill="#bbf7d0" />
+<text x="991" y="411" class="count">4</text>
 </g>
 <g class="tower">
 <title>Jul 09: 1 edit</title>
+<polygon points="976,472 991,480 991,500 976,492" fill="#86efac" />
+<polygon points="1006,472 991,480 991,500 1006,492" fill="#22c55e" />
+<polygon points="991,464 1006,472 991,480 976,472" fill="#dcfce7" />
+<text x="991" y="460" class="count">1</text>
+</g>
+<g class="tower">
+<title>Jul 10: 3 edits</title>
+<polygon points="976,497 991,505 991,537 976,529" fill="#4ade80" />
+<polygon points="1006,497 991,505 991,537 1006,529" fill="#22c55e" />
+<polygon points="991,489 1006,497 991,505 976,497" fill="#bbf7d0" />
+<text x="991" y="485" class="count">3</text>
+</g>
+<g class="tower">
+<title>Jul 11: 5 edits</title>
+<polygon points="976,526 991,534 991,574 976,566" fill="#22c55e" />
+<polygon points="1006,526 991,534 991,574 1006,566" fill="#16a34a" />
+<polygon points="991,518 1006,526 991,534 976,526" fill="#86efac" />
+<text x="991" y="514" class="count">5</text>
+</g>
+<g class="tower">
+<title>Jul 12: 5 edits</title>
+<polygon points="1015,304 1030,312 1030,352 1015,344" fill="#22c55e" />
+<polygon points="1045,304 1030,312 1030,352 1045,344" fill="#16a34a" />
+<polygon points="1030,296 1045,304 1030,312 1015,304" fill="#86efac" />
+<text x="1030" y="292" class="count">5</text>
+</g>
+<g class="tower">
+<title>Jul 13: 2 edits</title>
+<polygon points="1015,355 1030,363 1030,389 1015,381" fill="#4ade80" />
+<polygon points="1045,355 1030,363 1030,389 1045,381" fill="#22c55e" />
+<polygon points="1030,347 1045,355 1030,363 1015,355" fill="#bbf7d0" />
+<text x="1030" y="343" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jul 14: 2 edits</title>
+<polygon points="1015,392 1030,400 1030,426 1015,418" fill="#4ade80" />
+<polygon points="1045,392 1030,400 1030,426 1045,418" fill="#22c55e" />
+<polygon points="1030,384 1045,392 1030,400 1015,392" fill="#bbf7d0" />
+<text x="1030" y="380" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jul 15: 2 edits</title>
+<polygon points="1015,429 1030,437 1030,463 1015,455" fill="#4ade80" />
+<polygon points="1045,429 1030,437 1030,463 1045,455" fill="#22c55e" />
+<polygon points="1030,421 1045,429 1030,437 1015,429" fill="#bbf7d0" />
+<text x="1030" y="417" class="count">2</text>
+</g>
+<g class="tower">
+<title>Jul 16: 1 edit</title>
 <polygon points="1015,472 1030,480 1030,500 1015,492" fill="#86efac" />
 <polygon points="1045,472 1030,480 1030,500 1045,492" fill="#22c55e" />
 <polygon points="1030,464 1045,472 1030,480 1015,472" fill="#dcfce7" />
 <text x="1030" y="460" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 10: 3 edits</title>
-<polygon points="1015,497 1030,505 1030,537 1015,529" fill="#4ade80" />
-<polygon points="1045,497 1030,505 1030,537 1045,529" fill="#22c55e" />
-<polygon points="1030,489 1045,497 1030,505 1015,497" fill="#bbf7d0" />
-<text x="1030" y="485" class="count">3</text>
+<title>Jul 17: 1 edit</title>
+<polygon points="1015,509 1030,517 1030,537 1015,529" fill="#86efac" />
+<polygon points="1045,509 1030,517 1030,537 1045,529" fill="#22c55e" />
+<polygon points="1030,501 1045,509 1030,517 1015,509" fill="#dcfce7" />
+<text x="1030" y="497" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 11: 5 edits</title>
-<polygon points="1015,526 1030,534 1030,574 1015,566" fill="#22c55e" />
-<polygon points="1045,526 1030,534 1030,574 1045,566" fill="#16a34a" />
-<polygon points="1030,518 1045,526 1030,534 1015,526" fill="#86efac" />
-<text x="1030" y="514" class="count">5</text>
+<title>Jul 18: 1 edit</title>
+<polygon points="1015,546 1030,554 1030,574 1015,566" fill="#86efac" />
+<polygon points="1045,546 1030,554 1030,574 1045,566" fill="#22c55e" />
+<polygon points="1030,538 1045,546 1030,554 1015,546" fill="#dcfce7" />
+<text x="1030" y="534" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 12: 5 edits</title>
-<polygon points="1054,304 1069,312 1069,352 1054,344" fill="#22c55e" />
-<polygon points="1084,304 1069,312 1069,352 1084,344" fill="#16a34a" />
-<polygon points="1069,296 1084,304 1069,312 1054,304" fill="#86efac" />
-<text x="1069" y="292" class="count">5</text>
+<title>Jul 19: 1 edit</title>
+<polygon points="1054,324 1069,332 1069,352 1054,344" fill="#86efac" />
+<polygon points="1084,324 1069,332 1069,352 1084,344" fill="#22c55e" />
+<polygon points="1069,316 1084,324 1069,332 1054,324" fill="#dcfce7" />
+<text x="1069" y="312" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 13: 2 edits</title>
-<polygon points="1054,355 1069,363 1069,389 1054,381" fill="#4ade80" />
-<polygon points="1084,355 1069,363 1069,389 1084,381" fill="#22c55e" />
-<polygon points="1069,347 1084,355 1069,363 1054,355" fill="#bbf7d0" />
-<text x="1069" y="343" class="count">2</text>
+<title>Jul 20: 1 edit</title>
+<polygon points="1054,361 1069,369 1069,389 1054,381" fill="#86efac" />
+<polygon points="1084,361 1069,369 1069,389 1084,381" fill="#22c55e" />
+<polygon points="1069,353 1084,361 1069,369 1054,361" fill="#dcfce7" />
+<text x="1069" y="349" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 14: 2 edits</title>
-<polygon points="1054,392 1069,400 1069,426 1054,418" fill="#4ade80" />
-<polygon points="1084,392 1069,400 1069,426 1084,418" fill="#22c55e" />
-<polygon points="1069,384 1084,392 1069,400 1054,392" fill="#bbf7d0" />
-<text x="1069" y="380" class="count">2</text>
+<title>Jul 21: 1 edit</title>
+<polygon points="1054,398 1069,406 1069,426 1054,418" fill="#86efac" />
+<polygon points="1084,398 1069,406 1069,426 1084,418" fill="#22c55e" />
+<polygon points="1069,390 1084,398 1069,406 1054,398" fill="#dcfce7" />
+<text x="1069" y="386" class="count">1</text>
 </g>
 <g class="tower">
-<title>Jul 15: 2 edits</title>
+<title>Jul 22: 2 edits</title>
 <polygon points="1054,429 1069,437 1069,463 1054,455" fill="#4ade80" />
 <polygon points="1084,429 1069,437 1069,463 1084,455" fill="#22c55e" />
 <polygon points="1069,421 1084,429 1069,437 1054,429" fill="#bbf7d0" />
 <text x="1069" y="417" class="count">2</text>
 </g>
 <g class="tower">
-<title>Jul 16: 1 edit</title>
-<polygon points="1054,472 1069,480 1069,500 1054,492" fill="#86efac" />
-<polygon points="1084,472 1069,480 1069,500 1084,492" fill="#22c55e" />
-<polygon points="1069,464 1084,472 1069,480 1054,472" fill="#dcfce7" />
-<text x="1069" y="460" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 17: 1 edit</title>
-<polygon points="1054,509 1069,517 1069,537 1054,529" fill="#86efac" />
-<polygon points="1084,509 1069,517 1069,537 1084,529" fill="#22c55e" />
-<polygon points="1069,501 1084,509 1069,517 1054,509" fill="#dcfce7" />
-<text x="1069" y="497" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 18: 1 edit</title>
-<polygon points="1054,546 1069,554 1069,574 1054,566" fill="#86efac" />
-<polygon points="1084,546 1069,554 1069,574 1084,566" fill="#22c55e" />
-<polygon points="1069,538 1084,546 1069,554 1054,546" fill="#dcfce7" />
-<text x="1069" y="534" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 19: 1 edit</title>
-<polygon points="1093,324 1108,332 1108,352 1093,344" fill="#86efac" />
-<polygon points="1123,324 1108,332 1108,352 1123,344" fill="#22c55e" />
-<polygon points="1108,316 1123,324 1108,332 1093,324" fill="#dcfce7" />
-<text x="1108" y="312" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 20: 1 edit</title>
-<polygon points="1093,361 1108,369 1108,389 1093,381" fill="#86efac" />
-<polygon points="1123,361 1108,369 1108,389 1123,381" fill="#22c55e" />
-<polygon points="1108,353 1123,361 1108,369 1093,361" fill="#dcfce7" />
-<text x="1108" y="349" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 21: 1 edit</title>
-<polygon points="1093,398 1108,406 1108,426 1093,418" fill="#86efac" />
-<polygon points="1123,398 1108,406 1108,426 1123,418" fill="#22c55e" />
-<polygon points="1108,390 1123,398 1108,406 1093,398" fill="#dcfce7" />
-<text x="1108" y="386" class="count">1</text>
-</g>
-<g class="tower">
-<title>Jul 22: 2 edits</title>
-<polygon points="1093,429 1108,437 1108,463 1093,455" fill="#4ade80" />
-<polygon points="1123,429 1108,437 1108,463 1123,455" fill="#22c55e" />
-<polygon points="1108,421 1123,429 1108,437 1093,429" fill="#bbf7d0" />
-<text x="1108" y="417" class="count">2</text>
-</g>
-<g class="tower">
 <title>Jul 23: 3 edits</title>
-<polygon points="1093,460 1108,468 1108,500 1093,492" fill="#4ade80" />
-<polygon points="1123,460 1108,468 1108,500 1123,492" fill="#22c55e" />
-<polygon points="1108,452 1123,460 1108,468 1093,460" fill="#bbf7d0" />
-<text x="1108" y="448" class="count">3</text>
+<polygon points="1054,460 1069,468 1069,500 1054,492" fill="#4ade80" />
+<polygon points="1084,460 1069,468 1069,500 1084,492" fill="#22c55e" />
+<polygon points="1069,452 1084,460 1069,468 1054,460" fill="#bbf7d0" />
+<text x="1069" y="448" class="count">3</text>
 </g>
-    <text x="94" y="640" class="date">Jan 18</text>
-<text x="172" y="640" class="date">Feb 01</text>
-<text x="328" y="640" class="date">Mar 01</text>
-<text x="523" y="640" class="date">Apr 05</text>
-<text x="679" y="640" class="date">May 03</text>
-<text x="874" y="640" class="date">Jun 07</text>
-<text x="1030" y="640" class="date">Jul 05</text>
-<text x="1108" y="640" class="date">Jul 23</text>
+<polygon points="1069,522 1084,529 1069,536 1054,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+    <text x="94" y="640" class="date">Jan 25</text>
+<text x="133" y="640" class="date">Feb 01</text>
+<text x="289" y="640" class="date">Mar 01</text>
+<text x="484" y="640" class="date">Apr 05</text>
+<text x="640" y="640" class="date">May 03</text>
+<text x="835" y="640" class="date">Jun 07</text>
+<text x="991" y="640" class="date">Jul 05</text>
+<text x="1069" y="640" class="date">Jul 24</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-07-23 19:09 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-07-24 02:21 UTC</text>
   </g>
 </svg>
