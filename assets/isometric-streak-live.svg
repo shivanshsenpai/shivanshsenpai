@@ -63,18 +63,18 @@
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
     <text x="22" y="34" class="mini-label">Six-month total</text>
-    <text x="22" y="73" class="mini-value">462</text>
+    <text x="22" y="73" class="mini-value">472</text>
     <text x="22" y="94" class="tiny">contributions</text>
   </g>
   <g transform="translate(730 186)">
     <rect width="172" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Best streak</text>
-    <text x="22" y="56" class="mini-value" style="font-size:20px">159 days</text>
+    <text x="22" y="56" class="mini-value" style="font-size:20px">163 days</text>
   </g>
   <g transform="translate(924 186)">
     <rect width="204" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Active days / peak</text>
-    <text x="22" y="52" class="mini-value" style="font-size:18px">164 active days</text>
+    <text x="22" y="52" class="mini-value" style="font-size:18px">168 active days</text>
     <text x="22" y="67" class="tiny">Peak: 22 on Jul 04</text>
   </g>
 
@@ -1256,10 +1256,34 @@
 <polygon points="1108,347 1123,355 1108,363 1093,355" fill="#bbf7d0" />
 <text x="1108" y="343" class="count">2</text>
 </g>
-<polygon points="1108,411 1123,418 1108,425 1093,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="1108,448 1123,455 1108,462 1093,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="1108,485 1123,492 1108,499 1093,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<polygon points="1108,522 1123,529 1108,536 1093,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<g class="tower">
+<title>Sep 22: 2 edits</title>
+<polygon points="1093,392 1108,400 1108,426 1093,418" fill="#4ade80" />
+<polygon points="1123,392 1108,400 1108,426 1123,418" fill="#22c55e" />
+<polygon points="1108,384 1123,392 1108,400 1093,392" fill="#bbf7d0" />
+<text x="1108" y="380" class="count">2</text>
+</g>
+<g class="tower">
+<title>Sep 23: 2 edits</title>
+<polygon points="1093,429 1108,437 1108,463 1093,455" fill="#4ade80" />
+<polygon points="1123,429 1108,437 1108,463 1123,455" fill="#22c55e" />
+<polygon points="1108,421 1123,429 1108,437 1093,429" fill="#bbf7d0" />
+<text x="1108" y="417" class="count">2</text>
+</g>
+<g class="tower">
+<title>Sep 24: 4 edits</title>
+<polygon points="1093,460 1108,468 1108,500 1093,492" fill="#4ade80" />
+<polygon points="1123,460 1108,468 1108,500 1123,492" fill="#22c55e" />
+<polygon points="1108,452 1123,460 1108,468 1093,460" fill="#bbf7d0" />
+<text x="1108" y="448" class="count">4</text>
+</g>
+<g class="tower">
+<title>Sep 25: 2 edits</title>
+<polygon points="1093,503 1108,511 1108,537 1093,529" fill="#4ade80" />
+<polygon points="1123,503 1108,511 1108,537 1123,529" fill="#22c55e" />
+<polygon points="1108,495 1123,503 1108,511 1093,503" fill="#bbf7d0" />
+<text x="1108" y="491" class="count">2</text>
+</g>
 <polygon points="1108,559 1123,566 1108,573 1093,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
     <text x="94" y="640" class="date">Mar 22</text>
 <text x="172" y="640" class="date">Apr 05</text>
@@ -1270,6 +1294,6 @@
 <text x="1030" y="640" class="date">Sep 06</text>
 <text x="1108" y="640" class="date">Sep 26</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-09-26 15:39 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-09-26 20:35 UTC</text>
   </g>
 </svg>
