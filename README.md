@@ -83,3 +83,4 @@ AI for usefulness. Automation for leverage. Marketing for growth. IoT for real-w
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:BFDBFE,55:DBEAFE,100:F8FAFC" alt="Profile footer wave" />
 </p>
+.
