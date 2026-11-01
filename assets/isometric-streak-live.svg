@@ -52,13 +52,13 @@
   <text x="58" y="72" class="kicker">GitHub Streak</text>
   <text x="58" y="118" class="title">Six-Month Isometric Timeline</text>
   <text x="58" y="150" class="copy">Every tower is a day. Height and number show daily edits across the last six months.</text>
-  <text x="58" y="175" class="tiny">Range: May 02 - Oct 31, 2026. Auto-generated from the public GitHub contribution calendar.</text>
+  <text x="58" y="175" class="tiny">Range: May 02 - Nov 01, 2026. Auto-generated from the public GitHub contribution calendar.</text>
 
   <g transform="translate(730 54)">
     <rect width="172" height="112" rx="22" fill="url(#panel)" filter="url(#shadow)" />
     <text x="22" y="34" class="stat-label">Current streak</text>
     <text x="22" y="75" class="stat-value">0 days</text>
-    <text x="22" y="96" class="stat-note">through Oct 31</text>
+    <text x="22" y="96" class="stat-note">through Nov 01</text>
   </g>
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
@@ -88,6 +88,7 @@
 <text x="593" y="282" class="month">Aug</text>
 <text x="788" y="282" class="month">Sep</text>
 <text x="944" y="282" class="month">Oct</text>
+<text x="1139" y="282" class="month">Nov</text>
     <polygon points="94,337 109,344 94,351 79,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,374 109,381 94,388 79,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="94,411 109,418 94,425 79,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
@@ -1231,6 +1232,7 @@
 <polygon points="1108,485 1123,492 1108,499 1093,492" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="1108,522 1123,529 1108,536 1093,529" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="1108,559 1123,566 1108,573 1093,566" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="1147,337 1162,344 1147,351 1132,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
     <text x="94" y="640" class="date">Apr 26</text>
 <text x="133" y="640" class="date">May 03</text>
 <text x="328" y="640" class="date">Jun 07</text>
@@ -1238,8 +1240,8 @@
 <text x="640" y="640" class="date">Aug 02</text>
 <text x="835" y="640" class="date">Sep 06</text>
 <text x="991" y="640" class="date">Oct 04</text>
-<text x="1108" y="640" class="date">Oct 31</text>
+<text x="1147" y="640" class="date">Nov 01</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-10-31 20:55 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-11-01 04:03 UTC</text>
   </g>
 </svg>
