@@ -52,18 +52,18 @@
   <text x="58" y="72" class="kicker">GitHub Streak</text>
   <text x="58" y="118" class="title">Six-Month Isometric Timeline</text>
   <text x="58" y="150" class="copy">Every tower is a day. Height and number show daily edits across the last six months.</text>
-  <text x="58" y="175" class="tiny">Range: May 11 - Nov 10, 2026. Auto-generated from the public GitHub contribution calendar.</text>
+  <text x="58" y="175" class="tiny">Range: May 12 - Nov 11, 2026. Auto-generated from the public GitHub contribution calendar.</text>
 
   <g transform="translate(730 54)">
     <rect width="172" height="112" rx="22" fill="url(#panel)" filter="url(#shadow)" />
     <text x="22" y="34" class="stat-label">Current streak</text>
     <text x="22" y="75" class="stat-value">0 days</text>
-    <text x="22" y="96" class="stat-note">through Nov 10</text>
+    <text x="22" y="96" class="stat-note">through Nov 11</text>
   </g>
   <g transform="translate(924 54)">
     <rect width="204" height="112" rx="22" fill="#ffffff" stroke="#dbeafe" filter="url(#shadow)" />
     <text x="22" y="34" class="mini-label">Six-month total</text>
-    <text x="22" y="73" class="mini-value">389</text>
+    <text x="22" y="73" class="mini-value">387</text>
     <text x="22" y="94" class="tiny">contributions</text>
   </g>
   <g transform="translate(730 186)">
@@ -74,7 +74,7 @@
   <g transform="translate(924 186)">
     <rect width="204" height="74" rx="18" fill="#ffffff" stroke="#dbeafe" />
     <text x="22" y="30" class="mini-label">Active days / peak</text>
-    <text x="22" y="52" class="mini-value" style="font-size:18px">150 active days</text>
+    <text x="22" y="52" class="mini-value" style="font-size:18px">149 active days</text>
     <text x="22" y="67" class="tiny">Peak: 22 on Jul 04</text>
   </g>
 
@@ -89,13 +89,7 @@
 <text x="866" y="282" class="month">Oct</text>
 <text x="1061" y="282" class="month">Nov</text>
     <polygon points="94,337 109,344 94,351 79,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
-<g class="tower">
-<title>May 11: 2 edits</title>
-<polygon points="79,355 94,363 94,389 79,381" fill="#4ade80" />
-<polygon points="109,355 94,363 94,389 109,381" fill="#22c55e" />
-<polygon points="94,347 109,355 94,363 79,355" fill="#bbf7d0" />
-<text x="94" y="343" class="count">2</text>
-</g>
+<polygon points="94,374 109,381 94,388 79,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <g class="tower">
 <title>May 12: 1 edit</title>
 <polygon points="79,398 94,406 94,426 79,418" fill="#86efac" />
@@ -1173,6 +1167,7 @@
 <polygon points="1108,337 1123,344 1108,351 1093,344" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="1108,374 1123,381 1108,388 1093,381" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
 <polygon points="1108,411 1123,418 1108,425 1093,418" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
+<polygon points="1108,448 1123,455 1108,462 1093,455" fill="#dbeafe" stroke="#bfdbfe" stroke-width="0.8" opacity="0.86" />
     <text x="94" y="640" class="date">May 10</text>
 <text x="250" y="640" class="date">Jun 07</text>
 <text x="406" y="640" class="date">Jul 05</text>
@@ -1180,8 +1175,8 @@
 <text x="757" y="640" class="date">Sep 06</text>
 <text x="913" y="640" class="date">Oct 04</text>
 <text x="1069" y="640" class="date">Nov 01</text>
-<text x="1108" y="640" class="date">Nov 10</text>
+<text x="1108" y="640" class="date">Nov 11</text>
     <text x="82" y="714" class="axis">Numbers above active towers are daily edits. Month and week labels make the six-month timeline readable.</text>
-    <text x="972" y="714" class="axis">Updated: 2026-11-10 22:45 UTC</text>
+    <text x="972" y="714" class="axis">Updated: 2026-11-11 04:29 UTC</text>
   </g>
 </svg>
